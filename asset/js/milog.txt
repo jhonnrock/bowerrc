@@ -1,0 +1,2592 @@
+    1  ls
+    2  ls -l
+    3  sudo su
+    4  exit
+    5  ls
+    6  pwd
+    7  sudo su
+    8  ls
+    9  pwd
+   10  ls
+   11  code ls
+   12  ls
+   13  zsh
+   14  zsh --help
+   15  ls
+   16  cd ~
+   17  ls
+   18  cd /
+   19  ls
+   20  cd opt
+   21  ls
+   22  zsh --help
+   23  clear
+   24  git status
+   25  git status -s
+   26  cd ..
+   27  ls
+   28  cd /home/johnnrock
+   29  ls
+   30  zshrc
+   31  ZSH_THEME
+   32  cat ZSH_THEME
+   33  ZS
+   34  CD ZSH_CUSTOM
+   35  /.zshrc
+   36  gedit zsh_custom
+   37  echo $shell
+   38  cat /etc/shell
+   39  cat /etc/shells
+   40  rake
+   41  ls
+   42  ~/.zshrc
+   43  sudo su
+   44  ~/.zshrc
+   45  gst
+   46  git
+   47  ls
+   48  gedit ~/.zshrc
+   49  ls
+   50  dir
+   51  ls
+   52  gedit ~/.zshrc
+   53  ls
+   54  zsh
+   55  exit
+   56  ls
+   57  exit
+   58  gedit ~/.zshrc
+   59  ls
+   60  open Downloads
+   61  open ~/.Downloads
+   62  open ~/.oh-my-zsh
+   63  exit
+   64  open ~/.oh-my-zsh
+   65  gksu
+   66  gksu ~/.oh-my-zsh
+   67  nautilus  ~/.oh-my-zsh
+   68  gedit ~/.zshrc
+   69  nautilus  ~/.oh-my-zsh
+   70  ls
+   71  gedit ~/.zshrc
+   72  ls
+   73  dir
+   74  cd /root/.oh-my-zsh/themes
+   75  ls
+   76  touch schminitz.zsh-theme
+   77  cat schminitz.zsh-theme
+   78  gedit ~/.zshrc
+   79  ls
+   80  dinda
+   81  cd /root/.oh-my-zsh/themes
+   82  ls
+   83  dir
+   84  touch alpharized.zsh-theme
+   85  gedit ~/.zshrc
+   86  ls
+   87  dir
+   88  ls
+   89  dir
+   90  desk
+   91  cd ~
+   92  desk
+   93  touch oh-my-zsh-node-theme
+   94  ls
+   95  rm oh-my-zsh-node-theme
+   96  cd /root/.oh-my-zsh/themes
+   97  ls
+   98  touch oh-my-zsh-node-theme
+   99  mv oh-my-zsh-node-theme node.zsh-theme
+  100  ls
+  101  sublime
+  102  ls
+  103  dir
+  104  ls
+  105  cd /root/.oh-my-zsh/themes
+  106  ls
+  107  touch odin.zsh-theme
+  108  gedit ~/.zshrc
+  109  ls
+  110  touch lambda-mod.zsh-theme
+  111  lsls
+  112  ls
+  113  rm lambda-mod.zsh-theme
+  114  cd /root/.oh-my-zsh/themes
+  115  touch lambda-mod.zsh-theme
+  116  ls
+  117  dir
+  118  hot
+  119  ls
+  120  dir
+  121  ls
+  122  dir
+  123  ls
+  124  pwd
+  125  shutdown -h now
+  126  ls
+  127  subl
+  128  ls
+  129  cd /root
+  130  ls
+  131  gedit ~/.zshrc
+  132  ls
+  133  cd /root
+  134  ls
+  135  history
+  136  cd /root/.oh-my-zsh/theme
+  137  nautilus /root/.oh-my-zsh/theme
+  138  nautilu /root/.oh-my-zsh/theme
+  139  nautilus /root/.oh-my-zsh/theme
+  140  open /root/.oh-my-zsh/theme
+  141  sudo su
+  142  exit
+  143  chmod 777 -R /root/
+  144  nautilus /root/.oh-my-zsh/theme
+  145  nautilus /root/.oh-my-zsh/themes
+  146  cd /root/.oh-my-zsh/themes
+  147  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git bullet-train-oh-my-zsh-theme/bullet-train.zsh-theme
+  148  nautilus /root/.oh-my-zsh/themes
+  149  shutdow -n how
+  150  shutdow -h now
+  151  shutdown -h now
+  152  ls
+  153  df -l
+  154  cd /media/johnnrock/App-music/My\ music
+  155  ls
+  156  cd /root/.oh-my-zsh/theme
+  157  cd /root/.oh-my-zsh/themes
+  158  nautilus /root/.oh-my-zsh/themes
+  159  ls
+  160  gedit ~/.zshrc
+  161  cd /root/.oh-my-zsh/themes
+  162  ls
+  163  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git bullet-train.zsh-theme
+  164  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b bullet-train.zsh-theme
+  165  git clone -b bullet-train.zsh-theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git
+  166  git clone --branch  bullet-train.zsh-theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git
+  167  git clone --branch bullet-train-oh-my-zsh-theme/bullet-train.zsh-theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git
+  168  git clone --branch bullet-train.zsh-theme https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git
+  169  shutdown -h now
+  170  ls
+  171  df
+  172  sudo /opt/lampp/lampp start
+  173  subl
+  174  shutdown -h now
+  175  nautius home
+  176  nautilus home
+  177  df
+  178  sudo /opt/lampp/lampp start
+  179  subl
+  180  ls
+  181  df /h
+  182  df /l
+  183  df -l
+  184  cd /media/johnnrock/App-music
+  185  ls
+  186  cd Ubuntu
+  187  ls
+  188  cd ubunto
+  189  ls
+  190  cd ..
+  191  ls
+  192  cd Mac
+  193  ls
+  194  cd ..
+  195  mkdir VideoUbu
+  196  cp /home/johnnrock/Desarrollo\ de\ una\ aplicación\ con\ MEAN.JS\ -\ 1-ymvfhkk8dC0.mp4 VideoUbu 
+  197  cd VideoUbu
+  198  ls
+  199  cd /home/johnnrock/
+  200  ls
+  201  rm Desarrollo\ de\ una\ aplicación\ con\ MEAN.JS\ -\ 1-ymvfhkk8dC0.mp4
+  202  shutdown -n how
+  203  shutdown -h now
+  204  ls
+  205  mkdir Downloads/videoAng
+  206  cd Downloads/videoAng
+  207  youtube-dl -F https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  208  youtube-dl -f https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  209  youtube-dl -F https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  210  youtube-dl https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  211  youtube-dl
+  212  youtube-dl --help
+  213  youtube-dl -F https://www.youtube.com/watch\?v\=mEBrAJkoeNE\&index\=24\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  214  youtube-dl https://www.youtube.com/watch\?v\=mEBrAJkoeNE\&index\=24\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  215  youtube-dl -F https://www.youtube.com/watch\?v\=iGmJ_Q_p6_Y
+  216  youtube-dl -F https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  217  youtube-dl -FK https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  218  youtube-dl -K https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  219  youtube-dl -cit https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  220  youtube-dl -ct https://www.youtube.com/watch\?v\=Wn_IQI-gg2s\&index\=21\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2
+  221  youtube-dl -help
+  222  youtube-dl -u
+  223  youtube-dl -update
+  224  youtube-dl --update
+  225  youtube-dl -update
+  226  youtube-dl --update
+  227  youtube-dl update
+  228  youtube-dl --update
+  229  pip
+  230  pip youtube-dl --update
+  231  youtube-dl -v
+  232  youtube-dl --version
+  233  sudo youtube-dl -U
+  234  shutdown -h now
+  235  ls
+  236  youtube-dl -v
+  237  youtube-dl --version
+  238  youtube-dl --update
+  239  youtube-dl -U
+  240  sudo pip youtube-dl -U
+  241  sudo youtube-dl -U
+  242  youtube-dl -U
+  243  youtube-dl -f
+  244  youtube-dl --h
+  245  youtube-dl -U
+  246  sudo youtube-dl --update
+  247  sudo pip install --upgrade youtube-dl
+  248  ls
+  249  youtube-dl --version
+  250  cd Downloads
+  251  ls
+  252  cd videoAng
+  253  ls
+  254  youtube-dl https://www.youtube.com/watch\?v\=mEBrAJkoeNE\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2\&index\=24
+  255  lame
+  256  lame --update
+  257  lame -h
+  258  lame --help
+  259  hytory
+  260  history
+  261  history 
+  262  cd /media/johnnrock/
+  263  ls
+  264  df
+  265  cd App-music
+  266  ls
+  267  cd My\ music/Justin\ Bieber\ -\ Purpose\ -\ 2015
+  268  ls
+  269  lame -b 128 11\ -\ Children.mp3 justin-children.mp3
+  270  youtube-dl https://www.youtube.com/watch\?v\=mEBrAJkoeNE\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2\&index\=24
+  271  cd ..
+  272  cd Alessia\ Cara\ -\ Know-It-All\ \(Deluxe\ Edition\)\ \[2015\]\ V0
+  273  ls
+  274  lame -b 128 04\ -\ I\'m\ Yours.mp3 alessia-I'm yours.mp3
+  275  lame -b 128 04\ -\ I\'m\ Yours.mp3 alessia-I'myours.mp3
+  276  lame -b 128 04\ -\ I\'m\ Yours.mp3 alessia.mp3
+  277  ps 
+  278  ps -l
+  279  ps -all
+  280  ps ax
+  281  ps ax |grep rythmbox
+  282  ps -a
+  283  youtube-dl https://www.youtube.com/watch\?v\=mEBrAJkoeNE\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2\&index\=24
+  284  ps --help
+  285  ps -h
+  286  ps -help
+  287  ps --help list
+  288  ps --help
+  289  ls
+  290  find 04
+  291  find -imane
+  292  find -inan=me
+  293  find -iname
+  294  find -iname 04
+  295  find -iname 04\\
+  296  
+  297  find -iname *mp3
+  298  find -iname *.mp3
+  299  grep
+  300  grep --help
+  301  shutdown -h now
+  302  ls
+  303  cd Downloads/
+  304  ls
+  305  cd videoAng
+  306  mv *.mp4 /media/johnnrock/App-music/VideoUbu/Angularjs
+  307  df
+  308  sudo fdisk -l
+  309  ls
+  310  sudo /opt/lampp/lampp start
+  311  cmus
+  312  install cmus
+  313  sudo apt-get install cmus
+  314  cmus
+  315  ps 
+  316  ps -a
+  317  exit
+  318  ps -af
+  319  ps -al
+  320  ps tree
+  321  ps -tree
+  322  pstree
+  323  ps -ef
+  324  ps -aux
+  325  subl
+  326  sudo gedit /etc/default/grub
+  327  df
+  328  sudo update-grub
+  329  df
+  330  sudo gedit /etc/default/grub
+  331  sudo update-grub
+  332  df
+  333  sudo fsck -a /dev/sdd1
+  334  sudo fsck -a /dev/
+  335  cd /dev
+  336  ls
+  337  cd ..
+  338  lsusb
+  339  lsusb LG
+  340  lsusb -D
+  341  lsusb -device
+  342  lsusb -D
+  343  lsusb -h
+  344  lsusb -D device
+  345  lsblk
+  346  fdisk -l
+  347  diskutil list
+  348  diskutil
+  349  sudo apt-get install diskutil
+  350  diskutil list
+  351  diskutil -help
+  352  diskutil list
+  353  CCCCCCCCCCCCCCCCCCCCC/dev/disk0
+  354  sudo fdisk -l
+  355  sudo fdisk -l /dev
+  356  sudo fdisk -l /dev/
+  357  sudo fdisk -l /dev/sda
+  358  fdisk  /dev/rdisk0
+  359  sudo fdisk  /dev/rdisk0
+  360  shutdown -h now
+  361  ls
+  362  sudo /opt/lampp/lampp start
+  363  ls
+  364  cd Downloads/videoAng
+  365  ls
+  366  youtube-dl --playlist-start 15 https://www.youtube.com/watch\?v\=avFQwM3jmrc\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2\&index\=15
+  367  shutdown -h now
+  368  youtube-dl --playlist-start 15 https://www.youtube.com/watch\?v\=avFQwM3jmrc\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2\&index\=15
+  369  ls
+  370  rm 15.-\ Curso\ AngularJS\ -\ \ Services-avFQwM3jmrc.mp4.part
+  371  cd Downloads/videoAng
+  372  youtube-dl --playlist-start 15 https://www.youtube.com/watch\?v\=avFQwM3jmrc\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2\&index\=15
+  373  shutdown -h now
+  374  ls
+  375  cd Downloads/
+  376  ls
+  377  cd videoAng
+  378  youtube-dl --playlist-start 15 https://www.youtube.com/watch\?v\=avFQwM3jmrc\&list\=PLpOqH6AE0tNhdnOl1mOBthj4C7OHdwQB2\&index\=15
+  379  cmus
+  380  cd ..
+  381  ls
+  382  cmus Justin\ Bieber\ -\ I\'ll\ Show\ You.mp3
+  383  cmus 
+  384  ps -l
+  385  kill 8635
+  386  ps -l
+  387  kill -8635
+  388  kill 8635
+  389  ls
+  390  ps -l
+  391  kill cmus
+  392  pkill cmus
+  393  ls
+  394  ps
+  395  kill -4 8635
+  396  ls
+  397  ps
+  398  sudo kill 8635
+  399  ls
+  400  ps
+  401  cmd
+  402  cms
+  403  cmus
+  404  ls
+  405  cd Music
+  406  ls
+  407  cd ..
+  408  cd Downloads
+  409  ls
+  410  cmus Justin\ Bieber\ -\ I\'ll\ Show\ You.mp3
+  411  shutdown -h now
+  412  ls
+  413  cmd
+  414  cmus
+  415  man cmus
+  416  @
+  417  netstat
+  418  netstat all
+  419  mps search YO NO SE MAÑANA
+  420  cd /root/mps
+  421  ls
+  422  cmus
+  423  netsh
+  424  cd /
+  425  ls
+  426  cd ~
+  427  ls
+  428  cd /home
+  429  ls
+  430  cd /home/johnnrock
+  431  cd ..
+  432  ls
+  433  rm Desarrollo\ de\ una\ aplicación\ con\ MEAN.JS\ -\ 2-7q294lUda_g.mp4
+  434  rm Desarrollo\ de\ una\ aplicación\ con\ MEAN.JS\ -\ 2-7q294lUda_g.flv.part
+  435  LS
+  436  ls
+  437  cd johnnrock
+  438  ls
+  439  cd Downloads
+  440  ls
+  441  apt-get install aircrack-ng
+  442  ls
+  443  ls -l
+  444  aircrack
+  445  aircrack-ng
+  446  apt-get install macchange
+  447  ls
+  448  apt-get install macchange
+  449  ls
+  450  ls -all
+  451  cd AircraftAdmin-Free/
+  452  ls
+  453  cd ..
+  454  apt-get install crunch
+  455  apt-get install wepcrack
+  456  apt-get install YO NO SE MAÑANA
+  457  apt-get install wepcrackgui-gtk
+  458  ls
+  459  rm wepCrack
+  460  rm -r wepCrack
+  461  rm -R wepCrack
+  462  rm -R wepCrack/
+  463  rm wepCrack/
+  464  cd wepCrack/
+  465  ls
+  466  cd WepCrack
+  467  cd ..
+  468  rm WepCrack
+  469  rm -r WepCrack
+  470  ls
+  471  shutdown -h now
+  472  cd /media/johnnrock/App-music/My\ music/One\ Direction\ -\ Made\ In\ The\ A.M.\ \(Deluxe\ Edition\)\ \[2015\]\ V0
+  473  ls
+  474  lame -b 128 03\ -\ Perfect.mp3 onedirecion-perfect.mp3
+  475  ls
+  476  lame -b 128 04\ -\ Infinity.mp3 onedirection-infinity.mp3
+  477  cd ..
+  478  ls
+  479  cd Maluma\ -\ Pretty\ Boy,\ Dirty\ Boy\ \(2015\)
+  480  ls
+  481  play 06\ Una\ Aventura\ \(feat.\ Alexis\ \&\ Fido.mp3
+  482  lame -b 128 06\ Una\ Aventura\ \(feat.\ Alexis\ \&\ Fido.mp3 maluma-unaaventura.mp3
+  483  shutdown -h now
+  484  ls
+  485  cd Downloads
+  486  ls
+  487  webapp-container 
+  488  aircrack-ng
+  489  wepcrack 
+  490  ls
+  491  wepcrack
+  492  sudo apt-get remove aircrack-ng
+  493  aircrack-ng
+  494  apt-get remove wepcrack
+  495  wepcrack
+  496  apt-get remove wepcrackgui-gtk 
+  497  sudo apt-get purge aircrack-ng
+  498  apt-get purge wepcrackgui-gtk 
+  499  sudo apt-get install aircrack-ng
+  500  ls
+  501  aircrack-ng
+  502  aircrack-ng -v
+  503  aircrack-ng -version
+  504  aircrack-ng -help
+  505  aircrack-ng --help
+  506  apt-get install macchanger
+  507  apt-get install reaver
+  508  ipconfig
+  509  ipconfig wlan0
+  510  ifconfig
+  511  ifconfig wlan0
+  512  aircrack-ng 
+  513  ls
+  514  reaver 
+  515  reaver -i
+  516  revear -i mon0 -b 00:90:4C:C1:AC:21
+  517  aircrack-ng
+  518  aircrack-ng start wlan0
+  519  aircrack-ng start
+  520  aircrack-ng 
+  521  cd
+  522  ls
+  523  cd /home/johnnrock
+  524  ls
+  525  cd Downloads
+  526  airmon-ng
+  527  airmon-ng start
+  528  airmon-ng start wlan0
+  529  ifconfig
+  530  ls
+  531  cd Downloads
+  532  ls
+  533  youtube-dl https://www.youtube.com/watch\?feature\=player_embedded\&v\=LqCqYP7hDWI --audio-format mp3
+  534  ls
+  535  rm Kelly\ Clarkson\ -\ Piece\ By\ Piece-LqCqYP7hDWI.mp4.part
+  536  youtube-dl https://www.youtube.com/watch\?feature\=player_embedded\&v\=LqCqYP7hDWI --audio-format mp3 --audio-quality 176 -k
+  537  ls
+  538  rm Kelly\ Clarkson\ -\ Piece\ By\ Piece-LqCqYP7hDWI.mp4.part
+  539  youtube-dl https://www.youtube.com/watch\?feature\=player_embedded\&v\=LqCqYP7hDWI --audio-format mp3 --extract-audio
+  540  ls
+  541  cd Downloads
+  542  cd videoAng
+  543  ls
+  544  mv *.mp4 /media/johnnrock/App-music/VideoUbu/Angularjs
+  545  ls
+  546  play Kelly\ Clarkson\ -\ Piece\ By\ Piece-LqCqYP7hDWI.mp3
+  547  shutdown -h now
+  548  ping www.google.com
+  549  ping
+  550  ping -t
+  551  airmon-ng show
+  552  airmon-ng start
+  553  ping 
+  554  ping  -T
+  555  ping  --T
+  556  ping  -c
+  557  ping  www.google.com
+  558  HISTORY
+  559  history
+  560  airmon-ng start wlan0
+  561  ifconfig \t
+  562  ifconfig wlan0
+  563  ifconfig wlan0 up
+  564  ifconfig
+  565  nmcli nm wifi on
+  566  ifconfig
+  567  ping 127.0.0.1
+  568  nmcliop nm wifi on
+  569  nmclio nm wifi on
+  570  nmcli nm wifi on
+  571  iwconfig
+  572  iwlist eth0 scan
+  573  iwlist eth0
+  574  iwlist 
+  575  iwlist eth0
+  576  iwlist scan
+  577  iwlist scan eth0
+  578  /etc/init.d/
+  579  ls
+  580  cd nscd restart
+  581  nscd restart
+  582  /etc/init.d/nscd restart
+  583  /etc/init.d/nscd
+  584  services nscd restart
+  585  service nscd restart
+  586  service
+  587  service nscd restart
+  588  service nscd reload
+  589  sudo apt-get install nscd
+  590  sudo /etc/init.d/dns-clean restart
+  591  sudo rndc flush
+  592  sudo /etc/init.d/dns-clean restart
+  593  sudo /etc/init.d/dns-clean reload
+  594  ls
+  595  dir
+  596  cd Downloads
+  597  apt-get install nscd
+  598  ls
+  599  cd ..
+  600  ls
+  601  cd Music
+  602  mps search Hurts - Wings
+  603  netsh
+  604  apt-get install netsh
+  605  netsh
+  606  cd ..
+  607  cd Videos
+  608  youtube-dl -F https://www.youtube.com/watch\?v\=7F1nLajs4Eo
+  609  youtube-dl -f 140+135 https://www.youtube.com/watch\?v\=7F1nLajs4Eo
+  610  youtube-dl -f 135+140 https://www.youtube.com/watch\?v\=7F1nLajs4Eo
+  611  youtube-dl -F https://www.youtube.com/watch\?v\=oVIeMfvgTz8\&index\=3\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U
+  612  youtube-dl -F --playlist-start 3 https://www.youtube.com/watch\?v\=oVIeMfvgTz8\&index\=3\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U
+  613  youtube-dl -f 135 --playlist-start 3 https://www.youtube.com/watch\?v\=oVIeMfvgTz8\&index\=3\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U
+  614  exit
+  615  shutdown -h now
+  616  ls
+  617  cd Videos
+  618  ls
+  619  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U
+  620  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U -i
+  621  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U -cit
+  622  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U -t
+  623  youtube-dl -help
+  624  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --playlist-item 4
+  625  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --playlist-items 4
+  626  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U "--playlist-items 4"
+  627  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --playlist-items 4
+  628  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --playlist-items 4,
+  629  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --playlist-items 
+  630  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --playlist-items 4
+  631  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --playlist-end 4
+  632  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --no-playlist 
+  633  youtube-dl -f 250+135 https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --no-playlist 
+  634  youtube-dl -f 135+250 https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --no-playlist 
+  635  youtube-dl -F https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --no-playlist 
+  636  youtube-dl -f 135+140 https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --no-playlist 
+  637  youtube-dl -f 244+250 https://www.youtube.com/watch\?v\=iFsYJG3fGro\&index\=4\&list\=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U --no-playlist 
+  638  youtube-dl https://www.youtube.com/watch\?v\=huyJy8hTQX0\&index\=3\&list\=PLcqBO_4wrMuqLatmIDNOUw8ZRatty4np5
+  639  cd ..
+  640  ls
+  641  cd Downloads
+  642  ls
+  643  play kelly
+  644  play Kelly\ Clarkson\ -\ Piece\ By\ Piece-LqCqYP7hDWI.mp3
+  645  cd ..
+  646  cd Videos
+  647  ls
+  648  youtube-dl https://www.youtube.com/watch\?v\=huyJy8hTQX0\&index\=3\&list\=PLcqBO_4wrMuqLatmIDNOUw8ZRatty4np5
+  649  cd Videos
+  650  ls
+  651  youtube-dl -F https://www.youtube.com/watch\?v\=AEE7DY2AYvI
+  652  shutdown -n how
+  653  shutdown -h now
+  654  cd Music/youtube-dl --audio-format mp3 --extract-audio https://youtu.be/hRQ08OvD_OU
+  655  cd Music
+  656  youtube-dl --audio-format mp3 --extract-audio https://youtu.be/hRQ08OvD_OU
+  657  ls
+  658  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=tsU4RfON_Ms
+  659  ls
+  660  play Prince\ Royce\ -\ Culpa\ Al\ Corazón\ \(VideoLetra\)_HD_2015-tsU4RfON_Ms.mp3
+  661  cd /videoo
+  662  cd /video
+  663  cd ..
+  664  cd Videos
+  665  youtube-dl -f https://www.youtube.com/watch\?v\=bZakLQUzzGM
+  666  youtube-dl -F https://www.youtube.com/watch\?v\=bZakLQUzzGM
+  667  cd Music/
+  668  play Prince\ Royce\ -\ Culpa\ Al\ Corazón\ \(VideoLetra\)_HD_2015-tsU4RfON_Ms.mp3
+  669  youtube-dl -f 135+160 https://www.youtube.com/watch\?v\=bZakLQUzzGM
+  670  ls
+  671  cd ..
+  672  ls
+  673  cd Videos
+  674  ls
+  675  cd ../Music/
+  676  play Prince\ Royce\ -\ Culpa\ Al\ Corazón\ \(VideoLetra\)_HD_2015-tsU4RfON_Ms.mp3
+  677  ls
+  678  play -help
+  679  play Prince\ Royce\ -\ Culpa\ Al\ Corazón\ \(VideoLetra\)_HD_2015-tsU4RfON_Ms.mp3
+  680  sudo apt-get install ubuntu-restricted-extras
+  681  curl
+  682  curl http://www.argentinawarez.com/link/\?G79apjCpCOpsxmp0Me3h2/LemYukeUKn/WscTLNPoW0\=
+  683  shutdown -h now
+  684  cd Music
+  685  history
+  686  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=xqbOq8baAtk\&index\=47\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  687  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=xqbOq8baAtk\&index\=47\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw --no-playlist
+  688  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=xqbOq8baAtk
+  689  ls
+  690  cd Music
+  691  ls
+  692  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=PAzH-YAlFYc
+  693  ls
+  694  nautilus
+  695  cd ..
+  696  nautilus Music
+  697  shutdown -h now
+  698  cd Music
+  699  youtube-dl --audio-format mp3  --extract-audio https://www.youtube.com/watch\?v\=I17pbWC8v9E
+  700  ls
+  701  cd Music
+  702  cd ..
+  703  nuatilus Music
+  704  nuatilu Music
+  705  nuatilus
+  706  nuatilus Music
+  707  nautilus Music
+  708  shutdown -h now
+  709  sudo apt-get install blueman
+  710  blueman
+  711  lsusb
+  712  lsusb -h
+  713  lsusb -s
+  714  lsusb --s
+  715  lsusb -D
+  716  lsusb -t
+  717  lsusb -h
+  718  lsusb -s
+  719  lsusbs
+  720  lsusb
+  721  lsusb LG El
+  722  shutdown -h now
+  723  lsusb
+  724  cd Videos
+  725  youtube-dl -F https://www.youtube.com/watch\?v\=nVS56AgNhO0
+  726  youtube-dl https://www.youtube.com/watch\?v\=nVS56AgNhO0
+  727  shutdown -h now
+  728  ls
+  729  cd Videos
+  730  youtube-dl https://www.youtube.com/watch\?v\=nVS56AgNhO0
+  731  nautilus
+  732  nautilus ../Videos
+  733  ls
+  734  youtube-dl -F https://youtu.be/MgYhBxl-SSM
+  735  youtube-dl https://youtu.be/MgYhBxl-SSM
+  736  ls -l
+  737  shutdown -h now
+  738  ls
+  739  cd Videos
+  740  youtube-dl https://www.youtube.com/watch\?v\=ewSalfF7Jhs
+  741  youtube-dl https://www.youtube.com/watch\?v\=QGKTdL7GG24
+  742  ls
+  743  ls -l
+  744  youtube-dl https://www.youtube.com/watch\?v\=yNwh0S0S0bU
+  745  cd ../Music
+  746  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=drjXAqYL36Q
+  747  ls
+  748  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=hwzkbOitQ-U
+  749  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=4PeQSq6KGR4
+  750  nautilus Music
+  751  cd /home/johnnrock/
+  752  ls
+  753  cd cd ..
+  754  cd ..
+  755  ls
+  756  cd Mymusic
+  757  ls
+  758  cd ~
+  759  ls
+  760  cd mps
+  761  ls
+  762  cd /home
+  763  ls
+  764  cd johnnrock
+  765  ls
+  766  cd Downloads
+  767  ls
+  768  nautilus ../Downloads
+  769  shutdown -h now
+  770  ls
+  771  cd Music
+  772  youtube-dl --audio-format mp3 --extract-
+  773  youtube-dl --audio-format mp3 --extract-udidio https://www.youtube.com/watch\?v\=_WHGlEYaBgU
+  774  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=_WHGlEYaBgU
+  775  cd ../Videos
+  776  ls
+  777  nautilus ../Videos
+  778  ls
+  779  youtube-dl https://www.youtube.com/watch\?v\=MgYhBxl-SSM
+  780  shutdown -h now
+  781  youtube-dl https://www.youtube.com/watch\?v\=MgYhBxl-SSM
+  782  ls
+  783  cd Videos
+  784  ls
+  785  youtube-dl https://www.youtube.com/watch\?v\=MgYhBxl-SSM
+  786  ls
+  787  shutdown -h now
+  788  cd Music
+  789  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=kFkbqafWINo
+  790  ls
+  791  ls -l
+  792  man ls
+  793  ls -b
+  794  ls -block
+  795  ls
+  796  ls -size
+  797  ls -z
+  798  ls --z
+  799  nautilus ../Videos
+  800  cd ../Videos/youtube-dl https://www.youtube.com/watch\?v\=2HzeSOk6PZ8
+  801  cd ../Videos
+  802  youtube-dl https://www.youtube.com/watch\?v\=2HzeSOk6PZ8
+  803  fdisk -l
+  804  ls
+  805  fdisk -l
+  806  id
+  807  df
+  808  fdisk -l
+  809  df
+  810  df -a
+  811  df -all
+  812  fdisk -l
+  813  df -all
+  814  sudo gedit /etc/default/grub
+  815  shutdown -h now
+  816  cd /media/johnnrock/App-music/My\ music
+  817  ls
+  818  cd Jake\ Miller\ -\ Dazed\ And\ Confused\ EP\ \[2014\]\ V0
+  819  ls
+  820  lame 03.\ Ghost\ \(feat.\ Nikki\ Flores\).mp3 ghost.mp3 -b 128
+  821  cmus
+  822  mpsyt
+  823  shutdown -h now
+  824  ls
+  825  cd ../Mymusic
+  826  ls
+  827  cd ../johnnrock/Music
+  828  ls
+  829  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=FMCUbFRrdSA
+  830  ls
+  831  ls -d
+  832  ls -a
+  833  ls -size
+  834  ls -block
+  835  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=FMCUbFRrdSA
+  836  mps search hurts Surrender
+  837  shutdown -h now
+  838  ls
+  839  date
+  840  datetime
+  841  date time
+  842  help
+  843  --help
+  844  help
+  845  cd ../The\ Vamps\ -\ Wake\ Up\ \(Deluxe\)\ 2015\ \{MP3\ Album\}\~\{VBUc\}
+  846  ls
+  847  lame -b 128 08\ Be\ With\ You.mp3 bewithyou.mp3
+  848  ls
+  849  lame -b 128 09\ Burn.mp3 burn.mp3
+  850  lame -b 128 13\ Half\ Way\ There.mp3 there.mp3
+  851  lame -b 128 01\ Wake\ Up.mp3 wakeup.mp3
+  852  ls
+  853  lame -b 128 Erik\ Hassle\ Natural\ Born\ Lovers\ MP3\ Downloads\ -\ www.123savemp3.com.MP3 erick.mp3
+  854  lame -b 128 Mp3skull\ -\ Download\ mp3\ free,\ fast\ music,\ listen\ to\ free\ music,\ best\ songs.mp3 mp3skull.mp3
+  855  ls
+  856  lame -b 04\ Stars.mp3 start.mp3
+  857  lame -b 128 04\ Stars.mp3 start.mp3
+  858  lame -b 128 Selena\ Gomez\ -\ Good\ For\ You.mp3 selena.mp3
+  859  ls
+  860  shutdown -h now
+  861  ls
+  862  cd Music
+  863  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=N7XMLEJdJQU\&index\=56\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  864  ls
+  865  rm Reik\ -\ Voy\ a\ Olvidarte-Bf3FONzKai8.webm.part
+  866  ls
+  867  youtube-dl --audio-format mp3 --extract-audio -t https://www.youtube.com/watch\?v\=N7XMLEJdJQU\&index\=56\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  868  ls
+  869  youtube-dl --help
+  870  youtube-dl --audio-format mp3 --extract-audio --playlist-items 56 https://www.youtube.com/watch\?v\=N7XMLEJdJQU\&index\=56\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  871  youtube-dl --audio-format mp3 --extract-audio --playlist-items 57 https://www.youtube.com/watch\?v\=ThwtnwHBpbU\&index\=57\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  872  youtube-dl --audio-format mp3 --extract-audio --playlist-items 58 https://www.youtube.com/watch\?v\=qWWSM3wCiKY\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw\&index\=58
+  873  ls
+  874  cd ../Music
+  875  nautilus ../Music
+  876  ls
+  877  shutdown -h npw
+  878  shutdown -h now
+  879  ls
+  880  apt-get update
+  881  shutdown -h now
+  882  sudo apt-get upgrade google-chrome-unstable
+  883  sudo apt-get --only-upgrade install google-chrome-stable
+  884  clear
+  885  cd /var/lib/apt/lists/
+  886  ls
+  887  sudo rm /var/lib/apt/lists/* -vf
+  888  sudo apt-get update
+  889  cd /media/johnnrock/App-music/VideoUbu
+  890  ls
+  891  cd Curso\ Diseño\ web\ responsive\ con\ Edge\ Reflow
+  892  ls
+  893  youtube-dl -h
+  894  youtube-dl --audio-format mp3 --extract-audio --playlist-items 
+  895  cd /home/johnnrock/Music
+  896  ls
+  897  youtube-dl --audio-format mp3 --extract-audio --playlist-items https://www.youtube.com/watch\?v\=vEuW0VUMXS8\&index\=49\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  898  youtube-dl --audio-format mp3 --extract-audio --playlist-items 49 https://www.youtube.com/watch\?v\=vEuW0VUMXS8\&index\=49\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  899  shutdown -h now
+  900  SHUTDOWN -H NOW
+  901  shutdown -h now
+  902  cd Videos
+  903  youtube-dl https://www.youtube.com/watch\?v\=SwK2dPFXhpU
+  904  ls
+  905  lynx
+  906  apt-get install lynx
+  907  lynx
+  908  lynx help
+  909  lynx --help
+  910  lynx youtube.com
+  911  lynx --help
+  912  shutdown -h now
+  913  cd Videos
+  914  youtube-dl https://www.youtube.com/watch\?v\=ejBkOjEG6F0
+  915  shutdown -h now
+  916  ls
+  917  s
+  918  cd Videos
+  919  ls
+  920  ls -a
+  921  ls -l
+  922  ls -a
+  923  calender
+  924  cal
+  925  cal --help
+  926  man cal
+  927  cal 2015
+  928  cal december 2015
+  929  calc
+  930  ncal
+  931  shutdown -h now
+  932  cd Music
+  933  ls
+  934  ls -a
+  935  ls -l
+  936  ls -lh
+  937  ls -lha
+  938  play -h
+  939  play -ls
+  940  ls -h
+  941  ls -lha
+  942  play A\ Day\ In\ The\ Life\ with\ Austin-kFkbqafWINo.mp3
+  943  rm A\ Day\ In\ The\ Life\ with\ Austin-kFkbqafWINo.mp3
+  944  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=SziuwwMxER8
+  945  ls
+  946  ls -lha
+  947  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=h161leMNOeE\&index\=60\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  948  youtube-dl --audio-format mp3 --extract-audio --playlist-items 60 https://www.youtube.com/watch\?v\=h161leMNOeE\&index\=60\&list\=PLpQF4F2AQPYXrlMJzDhE0j6DG_eAwfjRw
+  949  ls -lha
+  950  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=hZsm_DJzj2Q
+  951  youtube-dl --audio-format mp3 --extract-audio --playlist-items 326 https://www.youtube.com/watch\?v\=fegRyCLktS4\&index\=326\&list\=WL
+  952  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=fegRyCLktS4\&index\=326\&list\=WL
+  953  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=fegRyCLktS4
+  954  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=jV61jAo0AUw
+  955  ls
+  956  ls -blcok
+  957  play Jhovan\ Tomasevich\ -\ Al\ Final\ \(letra\)-jV61jAo0AUw.mp3
+  958  ls
+  959  ls -date
+  960  ls -l
+  961  ls -lt
+  962  ls -ltr
+  963  nautilus ../Music
+  964  shutdown -h now
+  965  ls
+  966  shutdown -h now
+  967  cd Videos
+  968  ls
+  969  youtube-dl https://www.youtube.com/watch\?v\=8caW5ekSBhc
+  970  ls
+  971  cd ../Music
+  972  ls
+  973  ls -lha
+  974  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=quppZeNV3f0
+  975  cd ../Videos
+  976  ls
+  977  youtube-dl https://www.youtube.com/watch\?v\=8caW5ekSBhc
+  978  ls
+  979  vlc
+  980  apt-get install vlc
+  981  sudo apt-get update
+  982  sudo apt-get install vlc browser-plugin-vlc
+  983  vlc
+  984  ls
+  985  vlc 
+  986  vlc Tutorial\ de\ Git
+  987  vlc -vvv
+  988  vlc help
+  989  shutdown -h now
+  990  vlc
+  991  vlc --v
+  992  vlc --h
+  993  vlc -h
+  994  vlc -help
+  995  vi /usr/bin/vlc 
+  996  edit /usr/bin/vlc 
+  997  gpedit /usr/bin/vlc 
+  998  cd /usr/bin/vlc
+  999  cd /usr/bin/
+ 1000  ls
+ 1001  gedit node
+ 1002  gedit vlc
+ 1003  vlc
+ 1004  gedit vlc
+ 1005  vlc
+ 1006  ls
+ 1007  vlc
+ 1008  gedit vlc
+ 1009  vlc
+ 1010  ls
+ 1011  ld -v
+ 1012  vlc
+ 1013  apt-get purge vlc
+ 1014  sudo apt-get autoremove
+ 1015  sudo add-apt-repository ppa:mc3man/trusty-media
+ 1016  ls
+ 1017  sudo apt-get update
+ 1018  sudo apt-get install vlc vlc-plugin-*
+ 1019  ls
+ 1020  mps
+ 1021  exit()\nclear
+ 1022  sudo add-apt-repository ppa:videolan/stable-daily
+ 1023  sudo apt-get update && sudo apt-get install vlc
+ 1024  ls
+ 1025  vlc
+ 1026  shutdown -h now
+ 1027  ls
+ 1028  shutdown -h now
+ 1029  shutdown -n
+ 1030  shutdown -h now
+ 1031  cd ../Vide
+ 1032  cd Videos
+ 1033  ls
+ 1034  vlc Introdução\ ao\ git\ e\ github-yNwh0S0S0bU.mp4
+ 1035  exit
+ 1036  cd ..
+ 1037  sudo add-apt-repository ppa:desdelinux/xdman
+ 1038  ls
+ 1039  sudo apt-get update
+ 1040  sudo apt-get install xdman
+ 1041  ls
+ 1042  mv *.mp4 ../../../media/johnnrock/App-music/VideoUbu/Other\ video
+ 1043  ls
+ 1044  xdman
+ 1045  java
+ 1046  xdman
+ 1047  java -jar
+ 1048  java -jar Downloads/xdman.deb
+ 1049  java -jar Downloads/xdman_all_linux.tar.gz
+ 1050  cd Downloads
+ 1051  ls
+ 1052  tar -xzvf xdman_all_linux.tar.gz
+ 1053  ls
+ 1054  sudo tar xzvf xdman_all_linux.tar.gz
+ 1055  ls
+ 1056  sudo tar -xzvf xdman
+ 1057  sudo tar -xzvf xdman_all_linux.tar.gz
+ 1058  sudo tar -xzvf xdman_all_linux.tar.gx
+ 1059  ls
+ 1060  del xdman.db
+ 1061  rm xdman.db
+ 1062  rm -r xdman.db
+ 1063  rm -R xdman.deb
+ 1064  ls
+ 1065  shutdown -h now
+ 1066  apt-get remove xdman
+ 1067  apt-get purge xdan
+ 1068  apt-get purge xdaman
+ 1069  shutdown -h now
+ 1070  ls
+ 1071  cd Downloads
+ 1072  ls
+ 1073  unzip Troye\ Sivan\ -\ Blue\ Neighbourhood\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip
+ 1074  ls
+ 1075  rm Troye
+ 1076  rm -R Troye
+ 1077  ls
+ 1078  unzip Troye\ Sivan\ -\ Blue\ Neighbourhood\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip
+ 1079  mv Troye ../../../media/johnnrock/App-music/My\ music
+ 1080  ls
+ 1081  rm Troye\ Sivan\ -\ Blue\ Neighbourhood\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip
+ 1082  ls
+ 1083  cd ~
+ 1084  ls
+ 1085  cd -
+ 1086  cd /
+ 1087  ls
+ 1088  cd media/johnnrock/App-music/My\ music
+ 1089  ls
+ 1090  cd Troye
+ 1091  ls
+ 1092  lame -b 128 154284\\Troye\ Sivan\ -\ Blue\ Neighbourhood\ \(Deluxe\ Edition\)\ \(2015\)\\07\ -\ TALK\ ME\ DOWN.mp3 talkmedown.mp3
+ 1093  ls -lsh
+ 1094  ls
+ 1095  cd ..
+ 1096  cd Ellie\ Goulding\ -\ Delirium\ \(2015\)
+ 1097  ls
+ 1098  ls -lsh
+ 1099  lame -b 128 03.\ Something\ In\ The\ Way\ You\ Move.mp3 something.mp3
+ 1100  ls -sh
+ 1101  cd ..
+ 1102  cd Hilary\ Duff\ -\ Breathe\ In.\ Breathe\ Out.\ \(Deluxe\ Edition\)\ \[2015\]\ V0
+ 1103  ls
+ 1104  ls -sh
+ 1105  Cd ..
+ 1106  cd ..
+ 1107  cd bso_solo_quimica_2015_bajatodo.xyz_
+ 1108  ls
+ 1109  lame -b 128 11\ Second\ -\ Horizonte\ en\ naranja.mp3 naranja.mp3
+ 1110  lame -b 128 Atomos\ dispersos dispersos.mp3
+ 1111  ls
+ 1112  lame -b 128 02\ Miss\ Caffeina\ -\ Atomos\ dispersos.mp3 dispersos.mp3
+ 1113  cd ..
+ 1114  cd Erik\ Hassle\ 
+ 1115  ls
+ 1116  cd Erik\ Hassle\ 
+ 1117  cd Erik\ Hassle\ -\ Pieces\ \(2010\)
+ 1118  ls
+ 1119  shutdown -h now
+ 1120  mps 
+ 1121  sbl
+ 1122  subl
+ 1123  cd /home
+ 1124  ls
+ 1125  cd johnnrock
+ 1126  ls
+ 1127  cd /
+ 1128  ls
+ 1129  cd home
+ 1130  ls
+ 1131  cd johnnrock
+ 1132  ls
+ 1133  cd ~
+ 1134  ls
+ 1135  cd /
+ 1136  cd opt/lampp/htdocs
+ 1137  ls
+ 1138  start
+ 1139  sudo /opt/lampp/lampp start
+ 1140  sudo service mysql stop
+ 1141  sudo service mysql start
+ 1142  sudo /etc/init.d/mysql stop
+ 1143  sudo service mysql stop
+ 1144  sudo /etc/init.d/mysql start
+ 1145  sudo /opt/lampp/lampp start
+ 1146  sudo /etc/init.d/mysql stop
+ 1147  sudo service mysql stop
+ 1148  sudo opt/lampp/lampp start
+ 1149  opt/lampp/lampp start
+ 1150  sudo /opt/lampp/lampp start
+ 1151  bower
+ 1152  cd /home/johnnrock/Music
+ 1153  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=B4WGAAAgQmY
+ 1154  shutdown -h now
+ 1155  cd /home/johnnrock/Music
+ 1156  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?feature\=player_embedded\&v\=p9xSDf2gF5Q
+ 1157  ls -lsh
+ 1158  ls -ha
+ 1159  ls -sh
+ 1160  ls -sort
+ 1161  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=fuZIv6tl9O8
+ 1162  nautilus /home/johnnrock/Music
+ 1163  shutdown -h now
+ 1164  ls
+ 1165  cd ~
+ 1166  ls
+ 1167  cd -
+ 1168  cd /
+ 1169  ls
+ 1170  sudo opt/lampp/lampp start
+ 1171  cd johnnrock
+ 1172  ls
+ 1173  cd /home/johnnrock/
+ 1174  ls
+ 1175  cd /opt
+ 1176  ls
+ 1177  cd lampp
+ 1178  ls
+ 1179  cd htdocs
+ 1180  ls
+ 1181  mps search babasonico putita
+ 1182  df
+ 1183  subl
+ 1184  df
+ 1185  cd ~
+ 1186  ls
+ 1187  cd Desktop
+ 1188  ls
+ 1189  cd /
+ 1190  cd /home/johnnrock
+ 1191  ls
+ 1192  mkdir Image
+ 1193  cd Image
+ 1194  cd ..
+ 1195  nautilus Image
+ 1196  cd Image
+ 1197  ls
+ 1198  df 
+ 1199  cd ..
+ 1200  cd nautilus image
+ 1201  nautilus image
+ 1202  nautilus Image
+ 1203  chmod 777 Image
+ 1204  nautilus Image
+ 1205  cd Image
+ 1206  ls -lh
+ 1207  cd ..
+ 1208  mv Image /home/johnnrock/Pictures
+ 1209  cd /home/johnnrock/Pictures
+ 1210  ls
+ 1211  cd Image
+ 1212  ls
+ 1213  exit
+ 1214  ls
+ 1215  cd ..
+ 1216  ls
+ 1217  cd ..
+ 1218  ls
+ 1219  cd 1
+ 1220  cd -
+ 1221  cd `
+ 1222  cd ~
+ 1223  ls
+ 1224  cd /home
+ 1225  ls
+ 1226  cd johnnrock
+ 1227  ls
+ 1228  shutdown -h now
+ 1229  ls
+ 1230  sudo /opt/lampp/lampp start
+ 1231  subl
+ 1232  libreoffice
+ 1233  mps search romeo santos propuesta indecente
+ 1234  ls
+ 1235  cd 
+ 1236  ls
+ 1237  cd mps
+ 1238  ls
+ 1239  nautilus ../mps
+ 1240  shutdown -h now
+ 1241  cd ~
+ 1242  ls
+ 1243  cd mps
+ 1244  ls
+ 1245  ls -lh
+ 1246  ls -lht
+ 1247  play Babasonicos\ -\ Putita.mp3
+ 1248  sudo /opt/lampp/lampp start
+ 1249  subl
+ 1250  play Babasonicos\ -\ Putita.mp3
+ 1251  play
+ 1252  play Babasonicos\ -\ Putita.mp3
+ 1253  ls
+ 1254  play Babasonicos\ -\ Putita.mp3
+ 1255  ls
+ 1256  play Luis\ Enrique\ -\ Yo\ No\ Se\ Manana.mp3
+ 1257  ls
+ 1258  mps search August Alsina - Song Cry
+ 1259  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=2vUP1vvypCg
+ 1260  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=i77DbKgmHTI
+ 1261  ls
+ 1262  mkdir /home/johnnrock/Documents/curriculos
+ 1263  cd /home/johnnrock/Documents/curriculos
+ 1264  chmod 777../curriculos
+ 1265  chmod 777 ../curriculos
+ 1266  ls
+ 1267  cd -
+ 1268  ls
+ 1269  mps search la ley mentira
+ 1270  ls
+ 1271  nautilus ../mps/
+ 1272  shutdown -h now
+ 1273  ls
+ 1274  sudo /opt/lampp/lampp start
+ 1275  ls
+ 1276  touch hola.txt
+ 1277  ls
+ 1278  vim hola.txt
+ 1279  ls
+ 1280  rm hola.txt
+ 1281  ls
+ 1282  subl
+ 1283  ls
+ 1284  s
+ 1285  ls
+ 1286  cd Note
+ 1287  ls
+ 1288  touch msgnavidad.txt | echo "Los amigos son como las estrellas que, \naunque no puedas verlas,\nsabes que SIEMPRE están AHÍ.\n\n¡Feliz NAVIDAD AMIGO!
+ 1289  ls
+ 1290  touch msgnavidad.txt | echo "Los amigos son como las estrellas que, aunque no puedas verlas,sabes que SIEMPRE están AHÍ." > msgnavidad.txt\n
+ 1291  ls
+ 1292  vim msgnavidad.txt
+ 1293  touch msgnavidad.txt | echo "Los amigos son como las estrellas que, aunque no puedas verlas,sabes que SIEMPRE están AHÍ."
+ 1294  ls
+ 1295  touch msgnavidad2.txt | echo "Los amigos son como las estrellas que, aunque no puedas verlas,sabes que SIEMPRE están AHÍ." 
+ 1296  ls
+ 1297  vim msgnavidad2.txt
+ 1298  touch msgnavidad2.txt | echo "Los amigos son como las estrellas que, aunque no puedas verlas,sabes que SIEMPRE están AHÍ." 
+ 1299  vim msgnavidad.txt
+ 1300  touch msgnavidad.txt | echo "Los amigos son como las estrellas que, aunque no puedas verlas,sabes que SIEMPRE están AHÍ." > msgnavidad.txt
+ 1301  ls
+ 1302  vim msgnavidad.txt
+ 1303  ls
+ 1304  rm msgnavidad2.txt
+ 1305  ls
+ 1306  shutdown -h now
+ 1307  cd /mps
+ 1308  ls
+ 1309  cd ~
+ 1310  ls
+ 1311  cd mps
+ 1312  ls
+ 1313  ls -l
+ 1314  sudo /opt/lampp/lampp start
+ 1315  subl
+ 1316  playlist
+ 1317  youtube-dl
+ 1318  youtube-dl -h
+ 1319  youtube-dl -help
+ 1320  youtube-dl --audio-format mp3 --extract-audio -playlist-items 22 https://www.youtube.com/watch\?v\=AIgjXRE_JKg\&index\=22\&list\=PLpQF4F2AQPYXGrnevM1-pI7ZE15UpMHJa
+ 1321  youtube-dl --audio-format mp3 --extract-audio --playlist-items 22 https://www.youtube.com/watch\?v\=AIgjXRE_JKg\&index\=22\&list\=PLpQF4F2AQPYXGrnevM1-pI7ZE15UpMHJa
+ 1322  ls
+ 1323  rm Drake\ -\ Hotline\ Bling-uxpDa-c-4Mc.webm.part
+ 1324  ls
+ 1325  youtube-dl --audio-format mp3 --extract-audio --playlist-items 22 https://www.youtube.com/watch\?v\=AIgjXRE_JKg\&index\=22\&list\=PLpQF4F2AQPYXGrnevM1-pI7ZE15UpMHJa --no-playlist
+ 1326  mps search drake hotline bling
+ 1327  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=PEFLumxMX3A
+ 1328  ls
+ 1329  ls -lh
+ 1330  ls -lht
+ 1331  play August\ Alsina\ -\ 
+ 1332  play August\ Alsina\ -\ Been\ Around\ The\ World\ \(Audio\)\ \(Explicit\)\ ft.\ Chris\ Brown-AIgjXRE_JKg.mp3
+ 1333  clear
+ 1334  df
+ 1335  cd /media/johnnrock/8CE0-050B
+ 1336  ls
+ 1337  cd -
+ 1338  cd Downloads
+ 1339  ls
+ 1340  ls -l
+ 1341  play August\ Alsina\ -\ Been\ Around\ The\ World\ \(Audio\)\ \(Explicit\)\ ft.\ Chris\ Brown-AIgjXRE_JKg.mp3
+ 1342  mv 5\ Seconds\ Of\ Summer\ -\ Sounds\ Good\ Feels\ Good\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip.crdownload /media/johnnrock/App-music/My\ music/
+ 1343  ls
+ 1344  mv 5\ Seconds\ Of\ Summer\ -\ Sounds\ Good\ Feels\ Good\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip.crdownload /media/johnnrock/App-music/My\ music/
+ 1345  mv 5\ Seconds\ Of\ Summer\ -\ Sounds\ Good\ Feels\ Good\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip /media/johnnrock/App-music/My\ music/
+ 1346  cd /media/johnnrock/App-music/My\ music
+ 1347  ls
+ 1348  ls -lht
+ 1349  play August\ Alsina\ -\ Been\ Around\ The\ World\ \(Audio\)\ \(Explicit\)\ ft.\ Chris\ Brown-AIgjXRE_JKg.mp3
+ 1350  cd -
+ 1351  cd ~
+ 1352  ls
+ 1353  \t\t\tclear
+ 1354  ls
+ 1355  unzip 5\ Seconds\ Of\ Summer\ -\ Sounds\ Good\ Feels\ Good\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip
+ 1356  ls
+ 1357  rm 5\ Seconds\ Of\ Summer\ -\ Sounds\ Good\ Feels\ Good\ \(Deluxe\ Edition\)\ \(mp3boo.cc\).zip
+ 1358  ls
+ 1359  cd 5\ Seconds\ of\ Summer\ -\ Sounds\ Good\ Feels\ Good\ \[2015\]\ V0
+ 1360  ls
+ 1361  ls -lht
+ 1362  lame -b 128 05\ -\ Jet\ Black\ Heart.mp3 heart.mp3
+ 1363  ls lt
+ 1364  ls -lt
+ 1365  ls -lth
+ 1366  nautilus
+ 1367  nautilus ../5\ Seconds\ of\ Summer\ -\ Sounds\ Good\ Feels\ Good\ \[2015\]\ V0
+ 1368  cd ~
+ 1369  cd mps
+ 1370  ls
+ 1371  nautilus ../mps
+ 1372  cd -
+ 1373  ls
+ 1374  shutdown -h now
+ 1375  df
+ 1376  lsblk
+ 1377  ls
+ 1378  lsblk
+ 1379  cd /media/johnnrock/App-music
+ 1380  ls
+ 1381  cd My\ music
+ 1382  ls
+ 1383  sudo /opt/lampp/lampp start
+ 1384  links
+ 1385  links2
+ 1386  ls
+ 1387  lsblk
+ 1388  ls
+ 1389  ls -lht
+ 1390  play 10\ -\ Castaway.mp3
+ 1391  ls
+ 1392  vlc
+ 1393  sudo
+ 1394  sudo su
+ 1395  su
+ 1396  exit
+ 1397  clear
+ 1398  exit
+ 1399  ls -lht
+ 1400  play 07\ -\ Safety\ Pin.mp3
+ 1401  ls
+ 1402  ls -lht
+ 1403  play 13\ -\ Fly\ Away.mp3
+ 1404  curl
+ 1405  sudo apt-get install curl
+ 1406  curl
+ 1407  curl --help
+ 1408  shutdown -h now
+ 1409  history
+ 1410  xdf-open
+ 1411  xdh-open
+ 1412  xdg-open http://google.com
+ 1413  history
+ 1414  lsblk
+ 1415  mount sda5
+ 1416  sudo mount /sd5
+ 1417  sudo mount /dev/sd5
+ 1418  sudo mount /dev/sda5
+ 1419  sudo umount /dev/sda5
+ 1420  google-chrome www.google.com
+ 1421  google-chrome http://google.com
+ 1422  gnome
+ 1423  gnome-open
+ 1424  gnome-open htt://google.com
+ 1425  gnome-open http://google.com
+ 1426  /usr/bin/google-chrome
+ 1427  cd /opt/google/chrome
+ 1428  llc
+ 1429  ll
+ 1430  gedit google-chrome
+ 1431  gnome-open htt://google.com
+ 1432  gnome-open http://google.com
+ 1433  google-chrome www.google.com
+ 1434  google-chrome http://google.com
+ 1435  gedit google-chrome
+ 1436  shutown -h now
+ 1437  shutdown -h now
+ 1438  history
+ 1439  gnome-open http://google.com
+ 1440  xdg-open http://google.com
+ 1441  ls
+ 1442  cd ~
+ 1443  ls
+ 1444  cd /
+ 1445  ls
+ 1446  cd /opt/
+ 1447  ls
+ 1448  cd /opt/google/chrome
+ 1449  ls
+ 1450  gedit google-chrome
+ 1451  xdg-open http://google.com
+ 1452  xdg-open www.google.com
+ 1453  gnome-open http://google.com
+ 1454  google-chrome www.google.com
+ 1455  whereis chrome www.google.com
+ 1456  whereis chrome
+ 1457  sudo /opt/lampp/lampp start
+ 1458  subl
+ 1459  cd /home/johnnrock/Pictures
+ 1460  ls
+ 1461  mkdir mis images
+ 1462  ls
+ 1463  rm mis
+ 1464  rm -r mis
+ 1465  ls
+ 1466  chmod 777 images
+ 1467  ls
+ 1468  nautilus images
+ 1469  ls
+ 1470  cd image
+ 1471  cd images
+ 1472  ls
+ 1473  ls *.jpg
+ 1474  sudo apt-get install fbi
+ 1475  ls
+ 1476  fbi
+ 1477  ls
+ 1478  fbi 2015011_15.jpg
+ 1479  cd ..
+ 1480  fbi images
+ 1481  fim images
+ 1482  ls
+ 1483  cd image
+ 1484  cd images
+ 1485  fim
+ 1486  fim *.jpg
+ 1487  fim
+ 1488  fbi ../images/*.jpg
+ 1489  shutdown -h now
+ 1490  cd Documents
+ 1491  ls
+ 1492  xdg-open
+ 1493  xdg-open www.google.com
+ 1494  xdg-open http://google.com
+ 1495  ls
+ 1496  open CURRICULUM\ 2012.docx
+ 1497  opne Document.odt
+ 1498  open Document.odt
+ 1499  libroffice Document.odt
+ 1500  libreoffice Document.odt
+ 1501  libreoffice -h
+ 1502  firefox google.com
+ 1503  libreoffice Document.odt -o
+ 1504  libreoffice Document.odt -show
+ 1505  shutdown -h now
+ 1506  cd /media/johnnrock/App-music/My\ music
+ 1507  ls
+ 1508  ll
+ 1509  ls
+ 1510  l
+ 1511  ll
+ 1512  ls -lht
+ 1513  cd August\ Alsina\ This\ Thing\ Called\ Life\ \[2015\]\ CDRIP
+ 1514  ll
+ 1515  cd August_Alsina-This_Thing_Called_Life-2015-MTD
+ 1516  ls
+ 1517  play 01-august_alsina-this_thing_called_life.mp3
+ 1518  history
+ 1519  history sudo
+ 1520  eog
+ 1521  cd Pictures
+ 1522  ls 
+ 1523  cd image
+ 1524  cd Image
+ 1525  ls
+ 1526  sudo apt-get remove fbi
+ 1527  sudo apt-get --purge remove fbi
+ 1528  fbi
+ 1529  display
+ 1530  ls
+ 1531  display 20151219_204.jpg
+ 1532  display 20151219_204709.jpg
+ 1533  feh
+ 1534  sudo apt-get install feh
+ 1535  feh
+ 1536  ls
+ 1537  feh 20151219_2044.jpg
+ 1538  feh -h
+ 1539  feh --help
+ 1540  man feh
+ 1541  dsds
+ 1542  zsh
+ 1543  nano ~/.zshrc
+ 1544  gedit ~/.zshrc
+ 1545  ~/.oh-my-zsh/themes/
+ 1546  ls
+ 1547  natuilus ../themes
+ 1548  nautilus ../themes
+ 1549  gedit ~/.zshrc
+ 1550  ~/.oh-my-zsh/themes/
+ 1551  ls
+ 1552  chmod 777 ../themes
+ 1553  ls
+ 1554  nautilus ../themes
+ 1555  ls
+ 1556  clone honukai-iterm-zsh/honukai.zsh-theme
+ 1557  gedit honukai.zsh-theme
+ 1558  ls
+ 1559  ll
+ 1560  shutdown -h now
+ 1561  ls
+ 1562  cd Pictures
+ 1563  ls
+ 1564  cd image
+ 1565  cd Image
+ 1566  ls
+ 1567  cd Music
+ 1568  s
+ 1569  ls
+ 1570  play Austin\ Mahone\ -\ Put\ It\ On\ Me\ Feat.\ Sage\ The\ Gemini-SziuwwMxER8.mp3
+ 1571  history
+ 1572  ~/.oh-my-zsh/themes/
+ 1573  nautilus ../themes
+ 1574  play jinx
+ 1575  play DNCE\ -\ Jinx\ \(Audio\)-I17pbWC8v9E.mp3
+ 1576  ls
+ 1577  clone https://github.com/oskarkrawczyk/honukai-iterm-zsh.git/raw/branch/honukai-iterm-zsh/honukai.zsh-theme
+ 1578  ls
+ 1579  play Chris\ Brown\ -\ Liquor\ \(Audio\)-hwzkbOitQ-U.mp3
+ 1580  ls -lht
+ 1581  play *.mp3
+ 1582  git checkout https://github.com/oskarkrawczyk/honukai-iterm-zsh.git honukai-iterm-zsh/honukai.zsh-theme
+ 1583  git checkout https://github.com/oskarkrawczyk/honukai-iterm-zsh.git /honukai.zsh-theme
+ 1584  git checkout https://github.com/oskarkrawczyk/honukai-iterm-zsh.git honukai-iterm-zsh/honukai.zsh-theme
+ 1585  git checkout https://github.com/oskarkrawczyk/honukai-iterm-zsh.git --honukai-iterm-zsh/honukai.zsh-theme
+ 1586  ls
+ 1587  git clone bullet-train-oh-my-zsh-theme/bullet-train.zsh-theme
+ 1588  git clone /bullet-train-oh-my-zsh-theme/bullet-train.zsh-theme
+ 1589  ls
+ 1590  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b bullet-train-oh-my-zsh-theme/bullet-train.zsh-theme
+ 1591  ls
+ 1592  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master bullet-train-oh-my-zsh-theme/bullet-train.zsh-theme
+ 1593  ls
+ 1594  nautilus ../themes
+ 1595  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master bullet-train.zsh-theme
+ 1596  nautilus ../themes
+ 1597  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b /master bullet-train.zsh-theme 
+ 1598  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master /bullet-train.zsh-theme 
+ 1599  ls
+ 1600  nautilus ../themes
+ 1601  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master /bullet-train.zsh-theme -single-branch
+ 1602  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master /bullet-train.zsh-theme --single-branch
+ 1603  rm bullet-train.zsh-theme
+ 1604  rm -r bullet-train.zsh-theme
+ 1605  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master /bullet-train.zsh-theme --single-branch
+ 1606  ls
+ 1607  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master /bullet-train.zsh-theme --single-branch
+ 1608  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master bullet-train.zsh-theme --single-branch
+ 1609  ls
+ 1610  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master bullet-train.zsh-theme --depth=1
+ 1611  rm -r bullet-train.zsh-theme
+ 1612  ls
+ 1613  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master bullet-train.zsh-theme --depth=1
+ 1614  ls
+ 1615  nautilus ../themes
+ 1616  shutdown -h now
+ 1617  cd Music
+ 1618  ls
+ 1619  ~/.oh-my-zsh/themes/
+ 1620  ls
+ 1621  ls -lht
+ 1622  nautilus ../themes
+ 1623  git fetch https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git
+ 1624  ll
+ 1625  git commit
+ 1626  git show commitid
+ 1627  ls bullet-train.zsh-theme
+ 1628  cd bullet-train.zsh-theme
+ 1629  git show commitid
+ 1630  cd ..
+ 1631  ls
+ 1632  wget https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git/bullet-train.zsh-theme
+ 1633  ll
+ 1634  ls
+ 1635  wget https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git/bullet-train.zsh-theme --no-check-certificate
+ 1636  git clone
+ 1637  ls
+ 1638  cp /bullet-train.zsh-theme  bullet-train.zsh-theme
+ 1639  cp /bullet-train.zsh-theme  /bullet-train.zsh-theme
+ 1640  cp /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1641  cp /bullet-train.zsh-theme/bullet-train.zsh-theme ../themes
+ 1642  ls
+ 1643  cp /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1644  cp /bullet-train.zsh-theme/bullet-train.zsh-theme  /
+ 1645  cp /bullet-train.zsh-theme/bullet-train.zsh-theme  ../themes
+ 1646  nautilus ../themes
+ 1647  flesh
+ 1648  ls
+ 1649  wget https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git/bullet-train.zsh-theme
+ 1650  git clone https://github.com/caiogondim/bullet-train-oh-my-zsh-theme.git -b master bullet-train.zsh-theme --depth=1
+ 1651  feh
+ 1652  cd ../Pictures
+ 1653  ls
+ 1654  feh
+ 1655  collage mode
+ 1656  feh -h
+ 1657  feh -help
+ 1658  feh --help
+ 1659  man feh
+ 1660  ls *.jpg
+ 1661  cd image
+ 1662  cd images
+ 1663  ls *.jpg
+ 1664  ls
+ 1665  cp /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1666  nautilus ../themes
+ 1667  chmod 777 bullet-train.zsh-theme
+ 1668  cp /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1669  ls
+ 1670  cp /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1671  nautilus bullet-train.zsh-theme
+ 1672  cp -f /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1673  cp -r /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1674  cp -rl /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1675  ls
+ 1676  cp -R /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1677  cp -R /bullet-train.zsh-theme/bullet-train.zsh-theme 
+ 1678  cp -R /bullet-train.zsh-theme/bullet-train.zsh-theme ../themes
+ 1679  ls
+ 1680  cp -r /bullet-train.zsh-theme/bullet-train.zsh-theme ../themes
+ 1681  cp -r ../themes /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1682  cp -R ../themes /bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1683  ls -lvi
+ 1684  cp ./bullet-train.zsh-theme/bullet-train.zsh-theme
+ 1685  cd bullet-train.zsh-theme
+ 1686  ls
+ 1687  cp bullet-train.zsh-theme ../../themes
+ 1688  cp ../../themes bullet-train.zsh-theme 
+ 1689  cp -R ../../themes bullet-train.zsh-theme 
+ 1690  nautilus
+ 1691  nautilus ../../themes
+ 1692  ~/.zshrc
+ 1693  geidit ~/.zshrc
+ 1694  getedit ~/.zshrc
+ 1695  gedit ~/.zshrc
+ 1696  ls
+ 1697  dir
+ 1698  ls
+ 1699  themes/
+ 1700  cd themes
+ 1701  cd /themes
+ 1702  nautilus ../../themes
+ 1703  ~/.oh-my-zsh/themes/
+ 1704  ls
+ 1705  nautoilus ../themes
+ 1706  nautilus ../themes
+ 1707  ls
+ 1708  shutdown -h now
+ 1709  ls
+ 1710  shutdown -h now
+ 1711  ls
+ 1712  git
+ 1713  ~/.oh-my-zsh/themes/
+ 1714  ls
+ 1715  nautilus ../themes
+ 1716  cd Music
+ 1717  ls
+ 1718  youtube-dl
+ 1719  youtube-dl -h
+ 1720  youtube-dl --audio-format mp3 --extract-audio --playlist-items 23 https://www.youtube.com/watch\?v\=bQ6ZaP8GIkw\&list\=PLpQF4F2AQPYXGrnevM1-pI7ZE15UpMHJa\&index\=23 --no-playlist
+ 1721  ls
+ 1722  ls -lht
+ 1723  youtube-dl --audio-format mp3 --extract-audio --playlist-items 26 https://www.youtube.com/watch\?v\=S2oxFIsENgM\&index\=26\&list\=PLpQF4F2AQPYXGrnevM1-pI7ZE15UpMHJa --no-playlist
+ 1724  ls
+ 1725  cd ../Note
+ 1726  ls
+ 1727  cd ..
+ 1728  ls
+ 1729  cd Documents
+ 1730  ls
+ 1731  libreoffice Newcurriculum.docx
+ 1732  xdg-open Newcurriculum.docx
+ 1733  cd /home/johnnrock/Music
+ 1734  ls
+ 1735  ll
+ 1736  play Reik\ -\ Voy\ a\ Olvidarte\ \(Official\ Video\)-B4WGAAAgQmY.mp3
+ 1737  cd ..
+ 1738  ls
+ 1739  cd project
+ 1740  ls
+ 1741  git clone git@github.com:jhonnrock/HTML5.git
+ 1742  ls
+ 1743  git clone git@github.com:jhonnrock/HTML5.git
+ 1744  mkdir Html5
+ 1745  ls
+ 1746  cd Html5
+ 1747  git init
+ 1748  ls
+ 1749  ll
+ 1750  ls -la
+ 1751  git clone git@github.com:jhonnrock/HTML5.git
+ 1752  git config --global user.name jhonnrock
+ 1753  git config --global user.email jhonn7890@gmail.com
+ 1754  git config --list
+ 1755  ls
+ 1756  ls -la
+ 1757  git init
+ 1758  ls
+ 1759  ls -a
+ 1760  touch readme2.md | echo"hola mundo"> readme2.md
+ 1761  touch readme2.md | echo "hola mundo"> readme2.md
+ 1762  ls
+ 1763  cat readme2.md
+ 1764  git status
+ 1765  git add readme2.md
+ 1766  git status 
+ 1767  git commit -m "inicial"
+ 1768  git status
+ 1769  git log
+ 1770  echo "nuevo dos"> readme2.md
+ 1771  cat readme2.md
+ 1772  git status
+ 1773  git add readme2.md
+ 1774  git status
+ 1775  git diff
+ 1776  git log
+ 1777  touch mipro.log
+ 1778  ls
+ 1779  cat mipro.log
+ 1780  git branch
+ 1781  ls
+ 1782  ls -a
+ 1783  git remote
+ 1784  git remote -v
+ 1785  ls
+ 1786  cd ..
+ 1787  ls
+ 1788  rm Html5
+ 1789  rm -R Html5
+ 1790  ls
+ 1791  mkdir Htlm5
+ 1792  cd Htlm5
+ 1793  ls
+ 1794  ls -a
+ 1795  echo "mi primer test">> readme.md
+ 1796  ls
+ 1797  git init
+ 1798  ls -la
+ 1799  git add readme.md
+ 1800  git status
+ 1801  git commit -m "mi primerio"
+ 1802  git remote add origin https://github.com/jhonnrock/HTML5.git
+ 1803  git remote
+ 1804  git push -u  origin master
+ 1805  ls
+ 1806  rm readme.md readme2.md
+ 1807  mv readme.md readme2.md
+ 1808  rm -R readme.md readme2.md
+ 1809  rm readme.md readme2.md
+ 1810  ls
+ 1811  touch "hola mundo2">> readme2.md
+ 1812  add readme2.md
+ 1813  git add readme2.md
+ 1814  git status
+ 1815  ls
+ 1816  rm hola\ mundo2
+ 1817  ls
+ 1818  ls -la
+ 1819  ls
+ 1820  git commit -m "mi primer commit"
+ 1821  ls
+ 1822  git remote add origin https://github.com/jhonnrock/HTML5.git
+ 1823  git push -u  origin master
+ 1824  git remote rm origin
+ 1825  git remote
+ 1826  ls
+ 1827  git remote add origin git@github.com:jhonnrock/HTML5.git
+ 1828  git remote
+ 1829  git push -u  origin master
+ 1830  git remote set-url origin git@gitDhub.com:jhonnrock/HTML5.git
+ 1831  git remote show
+ 1832  ping github.com
+ 1833  cat config
+ 1834  git push -u  origin master
+ 1835  git remote rm origin
+ 1836  git remote
+ 1837  git remote set-url origin git@gitDhub.com:jhonnrock/HTML5.git
+ 1838  git remoye
+ 1839  git remote
+ 1840  git remote set-url origin git@gitDhub.com:jhonnrock/HTML5.git
+ 1841  git remote origin git@gitDhub.com:jhonnrock/HTML5.git
+ 1842  git remote add origin git@github.com:jhonnrock/HTML5.git
+ 1843  git remote
+ 1844  git push -u  origin master
+ 1845  sudo su - temp
+ 1846  cd chmod 700 ../html5
+ 1847  cd ..
+ 1848  sudo chmod 700 .ssh
+ 1849  sudo chmod 700 Htlm5
+ 1850  ls
+ 1851  git push -u  origin master
+ 1852  cd Htlm5
+ 1853  git push -u  origin master
+ 1854  cd `
+ 1855  cd ~
+ 1856  cd -
+ 1857  cd ..
+ 1858  mkdir .ssh
+ 1859  chmod 700 .ssh
+ 1860  ls
+ 1861  ls -la
+ 1862  touch .ssh/authorized_keys
+ 1863  git push -u  origin master
+ 1864  cd Htlm5
+ 1865  git push -u  origin master
+ 1866  git pull git@github.com:jhonnrock/HTML5.git
+ 1867  lss ~/.ssh/
+ 1868  cd ~/.ssh/
+ 1869  ls
+ 1870  ssh -T git@github.com
+ 1871  ls -al ~/.ssh
+ 1872  ssh-keygen -t rsa -b 4096 -C "jhonn7890@gmail.com"
+ 1873  echo "password es 15:17:d6:10:b8:a6:8f:3e:34:d4:a1:ca:cd:c4:3d:40">>githupass.txt
+ 1874  cat githupass.txt
+ 1875  eval "$(ssh-agent -s)"
+ 1876  ssh-add ~/.ssh/id_rsa
+ 1877  ssh -T git@github.com
+ 1878  ssh-add ~/.ssh/id_rsa
+ 1879  ls -al ~/.ssh
+ 1880  eval "$(ssh-agent -s)"
+ 1881  cat id_rsa
+ 1882  ssh-add ~/.ssh/id_rsa
+ 1883  clear
+ 1884  ssh-keygen -t rsa -b 4096 -C "jhonn7890@gmail.com"
+ 1885  ls
+ 1886  git config --global user.name "jhonnrock"
+ 1887  ls
+ 1888  git config --global user.email "jhonn7890@gmail.com"
+ 1889  ls
+ 1890  rm rosa789
+ 1891  rm rosa789.pub
+ 1892  ls
+ 1893  ssh-agent -s
+ 1894  ls
+ 1895  s
+ 1896  ls
+ 1897  gedit id_rsa.pub
+ 1898  ssh -T git@github.com
+ 1899  gedit id_rsa.pub
+ 1900  ssh -T git@github.com
+ 1901  gedit id_rsa.pub
+ 1902  ssh -T git@github.com
+ 1903  subl
+ 1904  gedit id_rsa.pub
+ 1905  ssh -T git@github.com
+ 1906  ssh-add ~/.ssh/id_rsa &>/dev/null
+ 1907  ssh-agent
+ 1908  ls
+ 1909  cat id_rsa
+ 1910  clear
+ 1911  cat id_rsa.pub
+ 1912  ssh -T git@github.com
+ 1913  ssh-agent bash
+ 1914  ssh-keygen -p
+ 1915  ls
+ 1916  ssh-keygen -p
+ 1917  ssh -T git@github.com
+ 1918  git push -u  origin master
+ 1919  cd /home/johnnrock/project/Htlm5
+ 1920  git push -u  origin master
+ 1921  git remote
+ 1922  git pull git@github.com:jhonnrock/HTML5.git
+ 1923  git merge origin master
+ 1924  git push origin master
+ 1925  git push -u origin master
+ 1926  shutdown -h now
+ 1927  ls
+ 1928  cd project/Htlm5
+ 1929  ls
+ 1930  git push -u master
+ 1931  ls -la
+ 1932  cd Music
+ 1933  ls
+ 1934  ll
+ 1935  play Robin\ Schulz\ \&\ Judge\ -\ Show\ me\ love-hZsm_DJzj2Q.mp3
+ 1936  git remote -v
+ 1937  git remove add origin git@github.com:jhonnrock/HTML5.git
+ 1938  ls
+ 1939  git remote -v
+ 1940  git push -u origin master
+ 1941  ll
+ 1942  ls -lht
+ 1943  play Joel\ Adams\ -\ Please\ Don\'t\ Go\ \(Official\ Music\ Video\)-S2oxFIsENgM.mp3
+ 1944  git pull master git@github.com:jhonnrock/HTML5.git (fetch)
+ 1945  git pull master git@github.com:jhonnrock/HTML5.git
+ 1946  git pull git@github.com:jhonnrock/HTML5.git master
+ 1947  play LVNDSCAPE\ ft\ Joel\ Baker\ -\ Speeches\ \(Official\ Music\ Video\)-p9xSDf2gF5Q.mp3
+ 1948  echo "<head><head>" >>index.html
+ 1949  ls
+ 1950  git status
+ 1951  git add index.html
+ 1952  git status
+ 1953  git git commit -m "mi segundo commit"
+ 1954  git commit -m "mi segundo commit"
+ 1955  ls
+ 1956  git pull git@github.com:jhonnrock/HTML5.git master
+ 1957  git merge origin master
+ 1958  git fetch origin
+ 1959  git pull git@github.com:jhonnrock/HTML5.git master
+ 1960  git push -u origin master
+ 1961  play *.mp3
+ 1962  command
+ 1963  command >>file.txt
+ 1964  command >>file.txt 2>&1
+ 1965  history
+ 1966  history 10
+ 1967  find ~/git
+ 1968  find "git"
+ 1969  find git
+ 1970  history -w ~//history.txt
+ 1971  history -w ~/history.txt
+ 1972  history  ~/history.txt
+ 1973  history history.txt
+ 1974  history >>history.txt
+ 1975  ls
+ 1976  cat history.txt
+ 1977  git
+ 1978  git status
+ 1979  git add history.txt
+ 1980  git status
+ 1981  ls
+ 1982  git commit -m "tercer commit"
+ 1983  git push -u origin master
+ 1984  git log
+ 1985  ping https://twitter.com/tifis
+ 1986  ping
+ 1987  ping www.google.com
+ 1988  ping www.twitter.com/tifis
+ 1989  ping www.twitter.com
+ 1990  history -a
+ 1991  mps search Aquilo - Good Girl
+ 1992  ll
+ 1993  mps search Aquilo - You There
+ 1994  ls
+ 1995  play Erik\ Hassle\ -\ Smaller\ \(audio\)-ThwtnwHBpbU.mp3
+ 1996  play help
+ 1997  play -h
+ 1998  play -m
+ 1999  play -m *.mp3
+ 2000  play -R *.mp3
+ 2001  play shutdown -h now
+ 2002  shutdown -h now
+ 2003  ls
+ 2004  cd Music
+ 2005  ls
+ 2006  cd ~/mps
+ 2007  ls
+ 2008  play One\ Direction\ -\ Perfect.mp3
+ 2009  sh
+ 2010  telnet
+ 2011  cal
+ 2012  ll
+ 2013  play -r *mp3
+ 2014  play -r *.mp3
+ 2015  play -P *.mp3
+ 2016  play -R *.mp3
+ 2017  ls -R /media/johnnrock/App-music/My\ music > /home/johnnrock/project/Htlm5/listado.txt
+ 2018  cd /home/johnnrock/project/Htlm5
+ 2019  ls
+ 2020  cat listado.txt
+ 2021  chmod 777 /../home/johnnrock/project/Htlm5
+ 2022  sudo /home/johnnrock/Videos
+ 2023  ls
+ 2024  cd /home/johnnrock/Videos
+ 2025  ls
+ 2026  shutdown -h now
+ 2027  ls
+ 2028  cd Music
+ 2029  cd ~/mps
+ 2030  ll
+ 2031  play August\ Alsina\ -\ 
+ 2032  play August\ Alsina\ -\ Song\ Cry\ \(Explicit\)-i77DbKgmHTI.mp3 4
+ 2033  play August\ Alsina\ -\ Song\ Cry\ \(Explicit\)-i77DbKgmHTI.mp3 
+ 2034  ll
+ 2035  play Guy\ Sebastian\ -\ Black\ \&\ Blue\ \(Audio\)-PEFLumxMX3A.mp3
+ 2036  date
+ 2037  cd Videos
+ 2038  ls
+ 2039  youtube-dl https://www.youtube.com/watch\?v\=HtWIrGqbEwI
+ 2040  ls
+ 2041  vlc Como\ hacer\ un\ sitio\ web\ adaptable\ a\ dispositivos\ móviles\ con\ Responsive\ Design-HtWIrGqbEwI.mp4
+ 2042  vmplayer Como\ hacer\ un\ sitio\ web\ adaptable\ a\ dispositivos\ móviles\ con\ Responsive\ Design-HtWIrGqbEwI.mp4 
+ 2043  mplayer Como\ hacer\ un\ sitio\ web\ adaptable\ a\ dispositivos\ móviles\ con\ Responsive\ Design-HtWIrGqbEwI.mp4
+ 2044  ls
+ 2045  mv Como\ hacer\ un\ sitio\ web\ adaptable\ a\ dispositivos\ móviles\ con\ Responsive\ Design-HtWIrGqbEwI.mp4 /media/johnnrock/App-music/VideoUbu
+ 2046  lls
+ 2047  ll
+ 2048  youtube-dl https://www.youtube.com/results\?search_query\=diseno+web+responsive+con+media+query
+ 2049  ls
+ 2050  youtube-dl https://www.youtube.com/watch\?v\=mXHfpwg2pHI
+ 2051  ll
+ 2052  play Romeo santos
+ 2053  play Romeo\ Santos\ -\ Propuesta\ Indecente.mp3
+ 2054  subl
+ 2055  ls
+ 2056  youtube-dl https://www.youtube.com/watch\?v\=mXHfpwg2pHI
+ 2057  mkdir /opt/lampp/htdocs/testA
+ 2058  cd /opt/lampp/htdocs/testA
+ 2059  ls
+ 2060  ls -a
+ 2061  cd /media/johnnrock/App-music/My\ music/
+ 2062  ls
+ 2063  cd August\ Alsina\ This\ Thing\ Called\ Life\ \[2015\]\ CDRIP
+ 2064  play -R *.mp3
+ 2065  ls
+ 2066  cd August_Alsina-This_Thing_Called_Life-2015-MTD
+ 2067  play -R */mp3
+ 2068  play -R *.mp3
+ 2069  chmod 777 ../testA
+ 2070  echo "prueba" >index.html
+ 2071  ls
+ 2072  echo >bower.json
+ 2073  ls
+ 2074  subl bower.json
+ 2075  mkdir asset
+ 2076  ls
+ 2077  tree
+ 2078  echo > .bowerrc
+ 2079  ls
+ 2080  echo > .bowerrc
+ 2081  ls
+ 2082  ls -la
+ 2083  subl .bowerrc
+ 2084  mkdir asset/components
+ 2085  bower install
+ 2086  bower
+ 2087  sudo bower
+ 2088  sudo su
+ 2089  bower
+ 2090  chmod 777 ../testA
+ 2091  ls
+ 2092  bower install
+ 2093  mkdir ../testA/css
+ 2094  mkdir ../testA/js
+ 2095  tree
+ 2096  sudo /opt/lampp/lampp start
+ 2097  mkdir ../testA/asset/css
+ 2098  mkdir ../testA/asset/js
+ 2099  rm ../testA/css
+ 2100  rm -R ../testA/css
+ 2101  rm -R ../testA/js
+ 2102  tree
+ 2103  npn
+ 2104  ls -la
+ 2105  mpn
+ 2106  ls
+ 2107  bower install
+ 2108  bower install -allow-root
+ 2109  ls
+ 2110  mplayer Introducción\ al\ Responsive\ Web\ Design\ \(Webinar\ 05\ Nov.\ 2014\)-mXHfpwg2pHI.mp4
+ 2111  mv Introducción\ al\ Responsive\ Web\ Design\ \(Webinar\ 05\ Nov.\ 2014\)-mXHfpwg2pHI.mp4 /media/johnnrock/App-music/VideoUbu/
+ 2112  ls
+ 2113  shudown -h now
+ 2114  shutdown -h now
+ 2115  cd /opt/lampp/htdocs
+ 2116  ls
+ 2117  cd testA
+ 2118  cd Music
+ 2119  ls
+ 2120  play -R *.mp3
+ 2121  git config --global user.name "jhonnrock"
+ 2122  git config --global user.email "jhonn7890@gmail.com"
+ 2123  git stats
+ 2124  git status
+ 2125  git init
+ 2126  git status
+ 2127  git add .
+ 2128  git status
+ 2129  git remote add origin git@github.com:jhonnrock/bowerrc.git
+ 2130  git remote -v
+ 2131  git commit -m "mi primer commit"
+ 2132  git push -u origin master
+ 2133  git merge origin master
+ 2134  git remove -v
+ 2135  git remote -v
+ 2136  git merge origin master
+ 2137  git pull git@github.com:jhonnrock/bowerrc.git master
+ 2138  git merge origin master
+ 2139  git merge origin
+ 2140  git merge origin master
+ 2141  ls
+ 2142  git remote
+ 2143  git merge origin master
+ 2144  git push -u origin master
+ 2145  df
+ 2146  SHUTDOWN -H NOW
+ 2147  shutdown -H NOW
+ 2148  shutdown -h now
+ 2149  ls
+ 2150  cd Music
+ 2151  ls
+ 2152  mps search Dvicio - Nada ft. Leslie Grace
+ 2153  youtube-dl --audio-format mp3 --extract-audio https://www.youtube.com/watch\?v\=vkNLoRPP-QM
+ 2154  cd /opt/lampp/lampp start
+ 2155  sudo /opt/lampp/lampp start
+ 2156  cd /opt/lampp/htdocs/testA
+ 2157  ls
+ 2158  subl
+ 2159  cd asset/
+ 2160  cd components
+ 2161  bower install lumx
+ 2162  bower install lumx --allow-root
+ 2163  lls
+ 2164  ll
+ 2165  ls -lht
+ 2166  play Dvicio\ -\ Nada\ \(Lyric\ Video\)\ ft.\ Leslie\ Grace-vkNLoRPP-QM.mp3
+ 2167  cd ..
+ 2168  sudo bower install lumx
+ 2169  sudo bower install lumx --allow-root
+ 2170  mkdir lumx
+ 2171  cd lumx
+ 2172  ls
+ 2173  bower install lumx --allow-root
+ 2174  ls
+ 2175  rm asset
+ 2176  rm -r asset
+ 2177  ls
+ 2178  cd ../../../testA
+ 2179  bower install lumx --allow-root
+ 2180  mkdir asset/lumx
+ 2181  bower install lumx --allow-root
+ 2182  sudo find -name "index"
+ 2183  sudo find -name "index.html"
+ 2184  play Dvicio\ -\ Nada\ \(Lyric\ Video\)\ ft.\ Leslie\ Grace-vkNLoRPP-QM.mp3
+ 2185  sudo find -name "index_inicio.html"
+ 2186  echo> asset/js/app_inicio.js
+ 2187  cd asset/js
+ 2188  ls
+ 2189  shutdown -h now
+ 2190  cd /opt/lampp/htdocs/testA
+ 2191  ls
+ 2192  sudo /opt/lampp/lampp start
+ 2193  git config --global user.name "jhonnrock"
+ 2194  cd Music
+ 2195  ls
+ 2196  play Calvin\ Harris\ \&\ Discipl
+ 2197  play Dvicio\ -\ Nada\ \(Lyric\ Video\)\ ft.\ Leslie\ Grace-vkNLoRPP-QM.mp3
+ 2198  git config --global user.email "jhonn7890@gmail.com"
+ 2199  git status
+ 2200  git add .
+ 2201  git status
+ 2202  git commit -m "mi tercer commit"
+ 2203  git remote 
+ 2204  git remote add origin git@github.com:jhonnrock/bowerrc.git
+ 2205  git push -u origin master
+ 2206  play Dvicio\ -\ Nada\ \(Lyric\ Video\)\ ft.\ Leslie\ Grace-vkNLoRPP-QM.mp3 -R
+ 2207  \tsubl
+ 2208  play Dvicio\ -\ Nada\ \(Lyric\ Video\)\ ft.\ Leslie\ Grace-vkNLoRPP-Q
+ 2209  PLAY -R *.MP3
+ 2210  play -R *.MP3
+ 2211  play -R *.mp3
+ 2212  ls
+ 2213  cd project
+ 2214  ls
+ 2215  cd ../
+ 2216  cd Docuu
+ 2217  cd Documents
+ 2218  ls
+ 2219  cd curriculos
+ 2220  ls
+ 2221  cd ..
+ 2222  cd ls
+ 2223  ls
+ 2224  shutdown -h now
+ 2225  ls
+ 2226  cd Music
+ 2227  ll
+ 2228  ll  -t
+ 2229  play MAX\ -\ You\'re\ Not\ That\ Girl\ \[AUD
+ 2230  play Dvicio\ -\ Nada\ \(Lyric\ Video\)\ ft.\ Leslie\ Grace-vkNLoRPP-QM.mp3
+ 2231  sudo /opt/lampp/lampp start
+ 2232  cd Documents
+ 2233  ls
+ 2234  vlc
+ 2235  vlc --allow-root
+ 2236  vlc --allot-root
+ 2237  vlc --allow-root
+ 2238  subl
+ 2239  shutdown -h now
+ 2240  cd /opt/lampp/htdocs/testA
+ 2241  subl
+ 2242  cd Music
+ 2243  ls
+ 2244  sudo /opt/lampp/lampp start
+ 2245  nautilus ../Music
+ 2246  shutdown -h now
+ 2247  ls
+ 2248  cd Music
+ 2249  ls
+ 2250  mps search Pitbull - Baddest Girl in Town
+ 2251  cd ~/mps
+ 2252  ls
+ 2253  play Pi
+ 2254  play Pitbull\ feat.\ Mohombi\ \&\ Wisin\ -\ Baddest\ Girl\ In\ Town.mp3
+ 2255  nautilus ~/mps
+ 2256  shutdown -h now
+ 2257  sudo /opt/lampp/lampp start
+ 2258  cd /opt/lampp/htdocs/testA
+ 2259  git status
+ 2260  subl
+ 2261  cd Music
+ 2262  play Danny\ Romero\ feat.\ Saga\ \&\ Sonyc\ -\ Punto\ Final\ \(Audio\)-bQ6ZaP8GIkw.mp3
+ 2263  shutdown -h now
+ 2264  cd Music
+ 2265  ls
+ 2266  sudo /opt/lampp/lampp start
+ 2267  cd /opt/lampp/htdocs/testA
+ 2268  ls
+ 2269  sudo find "index.html"
+ 2270  subl
+ 2271  mkder asset/templates
+ 2272  mkdir asset/templates
+ 2273  cd asset/templates
+ 2274  echo "hola m">home.html
+ 2275  cd ..
+ 2276  cd js
+ 2277  echo "">controllers.js
+ 2278  shutdown -h now
+ 2279  cd Music
+ 2280  ls
+ 2281  sudo /opt/lampp/lampp start
+ 2282  cd /opt/lampp/htdocs
+ 2283  ls
+ 2284  cd testA
+ 2285  git status
+ 2286  git config --global user.name "jhonnrock"
+ 2287  git config --global use.email "jhonn7890@gmail.com"
+ 2288  git status
+ 2289  git remove -v
+ 2290  git remote -v
+ 2291  git status
+ 2292  git add .
+ 2293  git status
+ 2294  git commit -m "tercer commit"
+ 2295  git push -u origin master
+ 2296  subl
+ 2297  cd asset/css/
+ 2298  echo "">main.css
+ 2299  mkdir ../image
+ 2300  ls
+ 2301  cd ..
+ 2302  ls
+ 2303  shutdown -h now
+ 2304  cd Music
+ 2305  sudo /opt/lampp/lampp start
+ 2306  cd /opt/lampp/htdocs/testA
+ 2307  clear
+ 2308  nautilus asset/image
+ 2309  subl
+ 2310  ls
+ 2311  chmod 777 asset/image
+ 2312  chmod 777 -R asset/image
+ 2313  echo"" asset/templates/>post.html
+ 2314  ls
+ 2315  cd asset/templates
+ 2316  ls
+ 2317  echo"" asset/templates/ >post.html
+ 2318  ls
+ 2319  shutdown -h now
+ 2320  sudo /opt/lampp/lampp start
+ 2321  subl
+ 2322  cd /opt/lampp/htdocs/testA
+ 2323  echo "" asset/templates >save.html
+ 2324  echo "" asset/templates/ >save.html
+ 2325  find "save.html"
+ 2326  echo "" asset/templates/>save.html
+ 2327  echo "" ../templates/ >save.html
+ 2328  echo "" ../../ >save.html
+ 2329  echo"" asset/templates/>post2.html
+ 2330  echo"" asset/templates/ >post2.html
+ 2331  cd asset/templates
+ 2332  echo "" >>save.html
+ 2333  mps search dvicio
+ 2334  nautilus ~/mps
+ 2335  shutdown -h now
+ 2336  sudo /opt/lampp/lampp start
+ 2337  cd /opt/lampp/htdocs/testA
+ 2338  ls
+ 2339  subl
+ 2340  echo "" ./asset/js/ >>services.js
+ 2341  touch asset/js/services.js
+ 2342  echo ""> asset/js/services.js
+ 2343  echo ""> asset/js/services2.js
+ 2344  cd Documents
+ 2345  ls
+ 2346  Xdg-open Newcurriculum.docx
+ 2347  Xdg-open
+ 2348  Xdg-open vlc
+ 2349  Xdg-open Newcurriculum.docx
+ 2350  Xdg-open mplayer
+ 2351  Xdg-open /Newcurriculum.docx
+ 2352  libreoffice Newcurriculum.docx
+ 2353  nautilus ./Newcurriculum.docx
+ 2354  shutdown -h now
+ 2355  ls
+ 2356  sudo /opt/lampp/lampp start
+ 2357  subl
+ 2358  apt-get update
+ 2359  sudo apt-get upgrade
+ 2360  sudo apt-get dist-upgrade
+ 2361  sudo rm /var/lib/apt/lists/* -vf
+ 2362  sudo apt-get update
+ 2363  shutdown -h now
+ 2364  cd Music
+ 2365  play ~/mps/Pitbull\ feat.\ Mohombi\ \&\ Wisin\ -\ Baddest\ Girl\ In\ Town.mp3
+ 2366  sudo /opt/lampp/lampp start
+ 2367  cd /opt/lampp/htdocs/testA
+ 2368  ls
+ 2369  subl
+ 2370  echo "" > asset/templates/show.html
+ 2371  shutdown -h now
+ 2372  ls
+ 2373  sudo /opt/lampp/lampp start
+ 2374  cd /opt/lampp/htdocs/testA
+ 2375  cd Documents
+ 2376  ls
+ 2377  ll
+ 2378  subl
+ 2379  libreoffice Newcurriculum.docx
+ 2380  nautilus Newcurriculum.docx
+ 2381  chmod -R 777 ../Documents
+ 2382  nautilus Newcurriculum.docx
+ 2383  lame -b 128 /media/johnnrock/App-music/My\ music/Maluma\ -\ Pretty\ Boy,\ Dirty\ Boy\ \(2015\)/01\ Borro\ Cassette.mp3
+ 2384  shutdown -h now
+ 2385  cd /opt/lampp/htdocs/testA
+ 2386  sudo /opt/lampp/lampp start
+ 2387  subl
+ 2388  shutdown -h now
+ 2389  cd /opt/lampp/htdocs/testA
+ 2390  cd ~/mps
+ 2391  sudo /opt/lampp/lampp start
+ 2392  shutdown -h now
+ 2393  sudo /opt/lampp/lampp startt
+ 2394  sudo /opt/lampp/lampp start
+ 2395  cd ~/mps
+ 2396  ls
+ 2397  cd /opt/lampp
+ 2398  cd ls
+ 2399  ll
+ 2400  cd htdocs/testA
+ 2401  tree
+ 2402  tree -h
+ 2403  tree -help
+ 2404  three -help
+ 2405  tree -0
+ 2406  tree -o
+ 2407  tree
+ 2408  tree -a
+ 2409  tree -d
+ 2410  tree -f
+ 2411  tree -p
+ 2412  tree -ls
+ 2413  tree -a
+ 2414  tree -d
+ 2415  clear
+ 2416  subl
+ 2417  sudo find "dialog"
+ 2418  sudo find "dialog_directive.js"
+ 2419  sudo find "dialog.js"
+ 2420  sudo find "index.html"
+ 2421  sudo find "index.html" =d
+ 2422  sudo find "index.html" -d
+ 2423  sudo find -name "index.html"
+ 2424  sudo find -name "dialog.jp"
+ 2425  sudo find -name "dialog_directive.jp"
+ 2426  cd /home/johnnrock/Videos
+ 2427  youtube-dl https://youtu.be/lVZ1kaRv1s4\?t\=30
+ 2428  play Trabajando\ Node\ JS\ con\ bases\ de\ datos\ \(MongoDB\)-lVZ1kaRv1s4.mp4
+ 2429  mplayer Trabajando\ Node\ JS\ con\ bases\ de\ datos\ \(MongoDB\)-lVZ1kaRv1s4.mp4
+ 2430  nautilus ./
+ 2431  youtube-dl https://www.youtube.com/watch\?v\=wUbG_8UI2J0
+ 2432  cd Videos
+ 2433  ll
+ 2434  cp Trabajando\ Node\ JS\ con\ bases\ de\ datos\ \(MongoDB\)-lVZ1kaRv1s4.mp4 /media/johnnrock/App-music/VideoUbu
+ 2435  cp /media/johnnrock/App-music/VideoUbu
+ 2436  cd /media/johnnrock/App-music/VideoUbu
+ 2437  ll
+ 2438  shutdown -h now
+ 2439  sudo /opt/lampp/lampp start
+ 2440  ls
+ 2441  subl
+ 2442  df
+ 2443  mkdir /media/johnnrock/441618FC1618F122/mio
+ 2444  echo "este no es mi pendra" > /media/johnnrock/441618FC1618F122/mio/mio.txt
+ 2445  cd /media/johnnrock/441618FC1618F122/mio/
+ 2446  ll
+ 2447  lsblk
+ 2448  cd /
+ 2449  ls
+ 2450  cd ~
+ 2451  ls
+ 2452  cd /home/johnnrock/Downloads
+ 2453  ls
+ 2454  unzip jquery-ui-1.11.4.custom.zip
+ 2455  subl
+ 2456  ls
+ 2457  ll
+ 2458  cp jquery-ui-1.11.4.custom/jquery-ui.js /opt/lampp/htdocs/testA/asset/js
+ 2459  shutdown -h now
+ 2460  sudo /opt/lampp/lampp start
+ 2461  cd /opt/lampp/htdocs/testA
+ 2462  ls
+ 2463  cd asset
+ 2464  ls
+ 2465  cd ~/
+ 2466  cd /tmp
+ 2467  cd ../
+ 2468  ls
+ 2469  subl
+ 2470  shutdown -h now
+ 2471  sudo /opt/lampp/lampp start
+ 2472  cd /opt/lampp/htdocs/testA
+ 2473  ll
+ 2474  subl
+ 2475  cd Music
+ 2476  ll
+ 2477  cd asset/js
+ 2478  ls
+ 2479  ls -lht
+ 2480  lsblk
+ 2481  wget https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2482  ls -lth
+ 2483  curl https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2484  ll
+ 2485  curl --help
+ 2486  lls
+ 2487  ll
+ 2488  rm autocomplete-jquery-ui.js
+ 2489  curl -L https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2490  ls
+ 2491  ll
+ 2492  wget --help
+ 2493  sv
+ 2494  svn
+ 2495  svn export
+ 2496  sudo apt-get install svn
+ 2497  sudo apt-get install subversion
+ 2498  svn
+ 2499  ll
+ 2500  play Austin\ Mahone\ -\ Put\ It\ On\ Me\ Feat.\ Sage\ The\ Gemini-SziuwwMxER8.mp3
+ 2501  svn https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2502  ll
+ 2503  svn checkout https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2504  svn ls https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2505  svn export https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2506  wget -A js https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2507  ll
+ 2508  cat autocomplete-jquery-ui.js
+ 2509  ll
+ 2510  rm autocomplete-jquery-ui.js
+ 2511  wget -p -k https://github.com/codigofacilito/angularjDs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2512  ll
+ 2513  wget -p -k https://github.com/codigofacilito/angularjDs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2514  wget -l 1 https://github.com/codigofacilito/angularjDs/blob/master/custom-directives-2/
+ 2515  ll
+ 2516  wget -L 1 https://github.com/codigofacilito/angularDjDs/blob/master/custom-directives-2/
+ 2517  shutdown -h now
+ 2518  sudo /opt/lampp/lampp start
+ 2519  cd /opt/lampp/htdocs/testA/asset
+ 2520  ll
+ 2521  cd js
+ 2522  ll
+ 2523  git clone https://github.com/codigofacilito/angularjs.git /angularjs/custom-directives-2/
+ 2524  ll
+ 2525  subl
+ 2526  sudo find -name "custom-dim"
+ 2527  sudo find -name "angularjs"
+ 2528  sudo find -name "index.html"
+ 2529  find -name "index.html"
+ 2530  cd ../..
+ 2531  sudo find -name "angularjs"
+ 2532  sudo find -name "index.html"
+ 2533  cd asset/js
+ 2534  \tll
+ 2535  git branch
+ 2536  git diff
+ 2537  git clone https://github.com/codigofacilito/angularjs/tree/master/custom-directives-2
+ 2538  git clone --single-branch  https://github.com/codigofacilito/angularjs/tree/master/custom-directives-2
+ 2539  git clone master --single-branch  https://github.com/codigofacilito/angularjs/tree/master/custom-directives-2
+ 2540  git clone -b master --single-branch  https://github.com/codigofacilito/angularjs/tree/master/custom-directives-2
+ 2541  git clone -b master --single-branch  https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2542  git clone -b master  https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2543  git clone https://github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2544  ls
+ 2545  ll
+ 2546  ls -lht
+ 2547  ll -1
+ 2548  ll -a
+ 2549* cd /
+ 2550* ls
+ 2551* rm angularjs
+ 2552* rm -R angularjs
+ 2553* ls
+ 2554  svn checkout https://github.com/codigofacilito/angularjs/tree/master/custom-directives-2
+ 2555  git checkout
+ 2556  svn checkout https://raw.github.com/codigofacilito/angularjs/tree/master/custom-directives-2
+ 2557  https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2558  https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/
+ 2559  git https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2560  wget https://raw.github.com/codigofacilito/angularjDs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2561  ll
+ 2562  wget https://github.com/codigofacilito/angularjDs/blob/master/custom-directives-2/raw/autocomplete-jquery-ui.js
+ 2563  git https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2564  curl https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2565  ll
+ 2566  ls -a
+ 2567  wget https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2568  curl https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2569  ll
+ 2570  curl https://rawgithub.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2571  ll
+ 2572  curl https://rawgithub.com/codigofacilito/angularjs/blob/master/custom-directives-2/
+ 2573  https://rawgithub.com/codigofacilito/angularjs/blob/master/custom-directives-2/
+ 2574  https://raw.github.com/codigofacilito/angularjs/blob/master/custom-directives-2/
+ 2575  https://rawgit.com/codigofacilito/angularjs/blob/master/custom-directives-2/
+ 2576  wget https://rawgit.com/codigofacilito/angularjs/blob/master/custom-directives-2/
+ 2577  ll
+ 2578  curl https://rawgit.com/codigofacilito/angularjs/blob/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2579  git clone angularjs/custom-directives-2/autocomplete-jquery-ui.js
+ 2580  git clone  https://rawgithub.com/codigofacilito/angularjs/custom-directives-2/autocomplete-jquery-ui.js
+ 2581  wget  https://rawgithub.com/codigofacilito/angularjs/custom-directives-2/autocomplete-jquery-ui.js
+ 2582  ll
+ 2583  wget https://raw.githubusercontent.com/codigofacilito/angularjs/master/custom-directives-2/autocomplete-jquery-ui.js
+ 2584  ll
+ 2585  touch history >histori.txt
+ 2586  ll
+ 2587  cat histor
+ 2588  cat history
+ 2589  rm history
+ 2590  cat histori.txt
+ 2591  rm histori.txt
+ 2592  history

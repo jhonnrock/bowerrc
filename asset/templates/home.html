@@ -1,12 +1,111 @@
-<lx-tabs>
-	<lx-tab heading="post">
+<div class="card">
+<lx-tabs links-tc="light" links-bgc="blue-grey-800" indicator="yellow-500" no-divider="true" z-depth="1">
+	<lx-tab heading="Posts">
 			<div class="p+">
 				hola mundo angularjs
+				<div class="card top-space" ng-repeat="post in posts">
+					<div class="p+">
+						<strong class="fs-headline display-block tc-red-900">
+						{{post.title}}
+						</strong>
+						<div class="paragraph fs-body-1 mt+">
+							{{post.body}}
+						</div> 
+
+					</div>
+					<div class="card__actions">
+						<a href="#/post/{{post.id}}" class="btn btn--m btn--blue btn--flat" lx-ripple ng-click="Mostar(post)">leer ++</a>
+						
+						<a ng-click="opendDialog(post)"class="btn btn--m btn--black btn--flat" lx-ripple>leer Prueba</a>
+
+						
+				<!-- esto es una prueba para el dialog -->
+	<lx-dialog class="dialog dialog--l" id="test" auto-close="true" onclose="closingDialog()" onscrollend="scrollEndDialog()">
+    <div class="dialog__header">
+        <div class="toolbar bgc-light-blue-500 pl++">
+            <span class="toolbar__label tc-white fs-title">
+                Lorem Ipsum
+            </span>
+
+            <div class="toolbar__right">
+                <button class="btn btn--l btn--white btn--icon" lx-ripple ng-click="addPerson()">
+                    <i class="mdi mdi-plus"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="dialog__content">
+        <lx-tabs links-tc="light" links-bgc="light-blue-500" indicator="yellow-500" no-divider="true" layout="inline">
+            <lx-tab heading="Lorem Ipsum 1">
+                <div class="p++">
+                    
+                </div>
+            </lx-tab>
+
+            <lx-tab heading="Lorem Ipsum 2">
+                <div class="p+">
+                    <p>Lorem Ipsum Content 2</p>
+
+                    <lx-text-field label="Description">
+                        <textarea ng-model="textFields.description"></textarea>
+                    </lx-text-field>
+                </div>
+            </lx-tab>
+
+            <lx-tab heading="Lorem Ipsum 3">
+                <p class="p++">Lorem Ipsum Content 3</p>
+            </lx-tab>
+        </lx-tabs>
+    </div>
+
+    <div class="dialog__actions">
+        <button class="btn btn--m btn--black btn--flat" lx-ripple lx-dialog-close>Cancel</button>
+        <button class="btn btn--m btn--black btn--flat" lx-ripple>Lorem Ipsum</button>
+    </div>
+</lx-dialog>
+
+<!-- hasta aca es la prueba  -->
+
+
+
+						<a ng-click="removePost(post)" class="btn btn--m btn--red btn--flat">Eliminar</a>
+
+	     			<a href="#/posts/edit/{{post.id}}" class="btn btn--m btn--black btn--raised" lx-ripple>Editar</a>  
+
+     			</div>
+				</div>
 			</div>
 	</lx-tab>
-	<lx-tab heading="users">
-		<div class ="p+">
-			hola mundo users
+	<lx-tab heading="Users">
+		<input type="text" name="" id="" my-autocomplete="repos" placeholder="buscar name">	
+		
+		<div class ="card top-space" ng-repeat="user in users" ng-hide="main_repo && main_repo !=user.name">
+		<div class="circular img-round" back-img="./asset/image/user.png"></div>
+		<h1 class="inline-block">{{user.username}}</h1>
+
+			
+		<div flex-container="row">
+			<div class="card__img card__img--left" style="height: 160px;">
+				<img src="./asset/image/user.png" class="img-round" >
+			</div>
+			<div flex-item flex-container="column">
+				<div flex-item>
+					<strong class="fs-headline display-block">
+						{{user.name}}
+					</strong>
+					<strong class="fs-subhead tc-balck-2 display-block">
+						{{user.email}}
+					</strong>
+				</div>
+				<div class="card__actions">
+					<a href="#">ver usuario</a>
+				</div>
+			</div>
+		</div>
+
+		
 		</div>
 	</lx-tab>
 </lx-tabs>
+</div>
